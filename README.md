@@ -1,6 +1,6 @@
 # multialignet data export
 
-These two zip files contain the same data from two different sources:
+The two zip files contained in the "lrec_submission" directory contain the same data from two different sources:
 
   -   "multialignet_csv_data.zip" contains all the 1111 CSV files directly produced by the multialignet data ingestion system, so there's one CSV file 
       for each annotationprocess launched on a certain head MCk. Files are named in the following way: HeadMCkBabelNetSynsetCode_EnglishWordNetLemma_200.csv .
