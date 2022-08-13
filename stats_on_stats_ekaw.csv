@@ -1,0 +1,1049 @@
+headsynset,n_kb_edges,n_only_kb_edges,only_kb_edges_sim>0.3,only_kb_edges_cooc>0.4
+bn:00000004n zero cypher 0 - zero 0 - Null 0,29,28,0,0
+bn:00000005n ace i one - 1 uno - 1 Ein Eins,70,61,0,5
+bn:00000009n 100 hundred century - cento 100 milione - 100 Einhundert Hundert,170,159,0,5
+bn:00000010n 1000 thousand one_thousand - 1000 mille 1200 - Tausend 1100 1200,49,43,0,3
+bn:00000011n 10000 myriad ten_thousand - diecimila miriade 10000 - Zehntausend Myriade,17,14,0,0
+bn:00000020n twelve 12 dozen - dodici 12 dozzina - Dutzend Zwölf 12,121,118,0,0
+bn:00000023n xiii thirteen long_dozen - tredici 13 - 13 Dreizehn,0,0,0,0
+bn:00000075n two deuce 2 - due 2 - Zwei 2,3,0,0,0
+bn:00000084n xxiii twenty-three 23 - ventitré 23 - Dreiundzwanzig 23,0,0,0,0
+bn:00000086n day 24-hour_interval twenty-four_hours - ventiquattr'ore giorno - Sonnentag Solartag Tag,539,483,56,153
+bn:00000092n xxviii 28 twenty-eight - ventotto 28 - 28 Achtundzwanzig,0,0,0,0
+bn:00000100n three 3 triad - tre 3 - Drei Dreizahl Trial,7,5,0,0
+bn:00000111n four iv quaternary - 4 quattro - Vier 4,17,15,0,1
+bn:00000127n hour hr 60_minutes - ora - Stunde,499,459,6,82
+bn:00000317n ability - capacità bravura abilità valentia - Fähigkeit,381,378,7,66
+bn:00000356n domicile dwelling home - casa dimora domicilio - Wohnung Behausung Wohnsitz,557,518,135,105
+bn:00000427n absence - mancanza assenza - Abwesenheit Absenz,158,157,0,7
+bn:00000609n acapulco_de_juárez acapulco acapulco_de_juarez - acapulco - Acapulco,27,19,0,0
+bn:00000639n accent emphasis - rilievo accento enfasi - Emphase,7,7,0,0
+bn:00000641n accent emphasis stress - accento accentuazione - Gewichtung Betonung Akzent,208,195,0,15
+bn:00000704n award accolade laurels - onoranza premio distinzione - Auszeichnung Ritterschlag,254,247,0,27
+bn:00000724n accomplishment achievement - conseguimento raggiungimento risultato - Errungenschaft Leistung,336,334,48,67
+bn:00000725n accomplishment attainment skill - attitudine abilità mestiere - Kompetenz Errungenschaft Kunst,475,431,17,37
+bn:00000738n history chronicle account - notizia cronaca storia - Erzählung Chronik Geschichte,598,557,142,155
+bn:00000741n explanation account - chiarificazione chiarimento spiegazione - Begründung Erläuterung Erklärung,421,374,18,48
+bn:00000748n ledger account_book book - libro_mastro partitario libro_contabile - Hauptbuch Geschäftsbuch Rechnungsbuch,12,8,0,0
+bn:00000753n controller accountant comptroller - commercialista computista ragioneria - Auditor Buchhalter Buchprüfer,80,71,0,4
+bn:00000790n star maven superstar - adepto superstar mago - Experte Promi Superstar,184,180,3,8
+bn:00001076n enactment file_unit act - atto strumento - Urkunde Akte,270,263,2,36
+bn:00001086n adrenocorticotropin corticotropin adrenocorticotrophin - ormone_adrenocorticotropo - Adrenocorticotropin,0,0,0,0
+bn:00001128n activity activeness action - attività azione - Aktivität,478,478,194,136
+bn:00001292n addison's_disease hypoadrenocorticism hypoadrenalism - malattia_di_addison adrenalite ipocortisolismo - Nebenniereninsuffizienz Addison-krankheit Nebennierenrindeninsuffizienz,0,0,0,0
+bn:00001294n increase addition gain - miglioramento aumento incremento - Anstieg Erhöhung Vergrößerung,467,466,7,76
+bn:00001302n reference address computer_address - indirizzo riferimento - Referenz Referenz_datentyp,239,228,0,14
+bn:00001339n adenoma - adenoma - Adenom Gutartige_drüsengeschwulst Drüsengeschwulst,12,1,0,0
+bn:00001382n adios adieu goodbye - addio ciao arrivederci - Abschied Tschüs Tschüss,87,87,0,3
+bn:00001507n corticosteroid corticoid adrenal_cortical_steroid - corticosteroide corticoide - Corticosteroide,4,3,0,0
+bn:00001530n woman female adult_female - donna signora - Frau Frauenzimmer Weibsperson,550,478,152,168
+bn:00001533n male adult_male man - uomo maschio - Mann Mannsbild Kerl,643,579,151,165
+bn:00001544n maturity adulthood - maturità età_adulta - Reife,177,167,0,6
+bn:00001557n advancement progress - progresso passo_avanti avanzamento - Fortschritt,435,433,8,43
+bn:00001559n vantage advantage - vantaggio tornaconto - Vorteil,343,342,23,28
+bn:00001560n advantage - vantaggio - Vorteil,388,388,4,32
+bn:00001602n protagonism advocacy - difesa sostegno propugnazione - Befürwortung Fürsprache,15,14,0,0
+bn:00001697n airplane aeroplane plane - aeroplano aereo apparecchio - Flieger Flugzeug,498,419,0,26
+bn:00001734n thing matter affair - roba fatto questione - Sache,536,535,84,109
+bn:00001735n liaison affair amour - relazione intimità tresca - Verhältnis Liebschaft Affäre,358,349,119,23
+bn:00001875n afternoon - pomeriggio - Nachmittag,252,232,0,27
+bn:00001937n age historic_period - anno era età epoca - Zeitalter,209,207,0,19
+bn:00001940n age eld old_age - anziano vecchiaia età senilità - Senior Alter,473,423,45,62
+bn:00001961n office bureau government_agency agency - agenzia_governativa agenzia ufficio - Kontor Koryphäe Behörde Amt,400,368,106,107
+bn:00001975n agent broker factor - agente sensale acquisitore - Makler Kommissionär,131,115,0,12
+bn:00002038n agkistrodon_piscivorus cottonmouth water_moccasin - agkistrodon_piscivorus - Wassermokassinotter,0,0,0,0
+bn:00002155n help aid assistance - aiuto ausilio assistenza - Beistand Hilfe,597,594,154,96
+bn:00002178n intent purpose intention aim - intento intenzione proposito - Absicht Intention,451,419,3,25
+bn:00002179n object target aim - finalità meta obiettivo - Ziel Objekt,624,611,30,127
+bn:00002185n earth's_atmosphere air sky - aria atmosfera_terrestre atmosfera - Luft Luftraum Erdatmosphäre,575,568,3,115
+bn:00002191n air melody line tune - linea_melodica melodia canto - Melodie,299,259,0,28
+bn:00002216n current_of_air air_current wind - corrente_d'aria vento aria - Wind Luftzug,341,257,0,64
+bn:00002370n quran koran book - corano - Koran,53,41,0,7
+bn:00002410n alarm dismay consternation - smarrimento allarme - Alarmstimmung,7,7,0,0
+bn:00002411n alarm alarm_device alarm_system - allarme avvisatore suoneria - Alarmsignal Alarm,154,144,0,13
+bn:00002412n alarm alarum alert - avvisatore allarme - Alarmsignal Alarmierung Alarm,213,211,0,41
+bn:00002413n alarm alarm_clock - sveglia - Weckeruhr Wecker Weckuhr,1,0,0,0
+bn:00002761n aliveness living animation - vita esistenza - Lebender Lebende Leben,372,371,46,100
+bn:00003125n alteration change modification - cambiamento mutamento alterazione - Änderung Wandel Veränderung,626,611,83,111
+bn:00003132n choice alternative option - opzione alternativa scelta - Auswahl Wahl Entscheidung,653,650,108,138
+bn:00003268n range scope ambit - portata gamma ambito - Einflusssphäre Stimmlage Bereich,393,387,140,32
+bn:00003281n pulpit rostrum dais - pulpito ambone podio - Podium Kanzel Ambo,81,47,0,3
+bn:00003341n united_states_of_america united_states america - stati_uniti_d'america stati_uniti america - Usa Vereinigte_staaten Vereinigte_staaten_von_amerika,188,112,1,26
+bn:00003343n americans american - americano statunitense statunitensi - Us-amerikaner,64,58,0,5
+bn:00003365n district_of_columbia washington_d.c. washington - washington - Washington_d._c. Washington Washington_d.c.,145,92,1,32
+bn:00003601n sum amount amount_of_money sum_of_money - cifra ammontare importo somma - Summe,458,454,18,50
+bn:00003603n measure amount quantity - quantità misura quantitativo - Menge,542,540,125,118
+bn:00003604n sum amount total - sooma totale somma - Summe Gesamtbetrag Gesamtsumme,429,419,15,50
+bn:00003742n anaconda green_anaconda eunectes_murinus - anaconda eunectes_murinus - Anaconda Anakonda Große_anakonda,0,0,0,0
+bn:00003780n parallel analog analogue - cosa_analoga parallelo - Analogon,1,1,0,0
+bn:00003882n physique frame human_body - figura corpo_umano carne - Körperbau Humanphysiologie Menschlicher_körper,29,26,0,0
+bn:00004222n animal creature fauna - creatura animale bestia - Tierleben Tierfortpflanzung Bestie,171,130,1,17
+bn:00004388n anode - anodo - Anode,0,0,0,0
+bn:00004425n anorexia - anoressia inappetenza - Inappetenz Anorexie Appetitlosigkeit,61,39,0,6
+bn:00004451n reply response answer - risposta replica - Antwort,492,490,85,62
+bn:00004452n solvent resolution solution - soluzione risultato risoluzione - Resultat Ergebnis,577,576,260,105
+bn:00004493n vestibule foyer anteroom lobby - atrio anticamera foyer vestibolo - Foyer Lobby Antichambrieren Vestibül,73,47,0,0
+bn:00004612n jew_bashing antisemitism anti-semitism - antisemitismo - Judenfeindlichkeit Judenhass Antisemitismus,141,94,0,6
+bn:00004629n antibody immunoglobulin - anticorpo immunoglobulina - Antikörper,222,173,0,33
+bn:00004801n anxiety anxiousness - ansietà ansia - Besorgnis Sorge Angst,213,154,4,42
+bn:00004836n apartment flat - appartamento quartiere quartierino alloggio - Wohnung Apartment Appartement,275,223,0,36
+bn:00005088n gadget contraption gismo - gadget artificio trappola - Gadget Steuerelement,53,46,0,0
+bn:00005105n engineering applied_science technology - ingegneria_fisica ingegneria tecnologia - Angewandte_wissenschaft Technologie Technische_physik,476,400,24,110
+bn:00005134n savvy apprehension understanding - comprensione pensiero apprensione - Verständnis Verstehen Apprehension,418,370,111,49
+bn:00005169n apr april - aprile - April Ostermond,275,237,0,14
+bn:00005361n electric_discharge electric_arc discharge - scarica_elettrica scintilla scintilla_elettrica - Lichtbogen Elektrische_lawinenentladung Funke,49,39,0,6
+bn:00005513n area country - località superficie zona - Flächeninhalt Fläche,489,459,82,74
+bn:00005599n argument tilt controversy - polemica controversia discussione disputa - Meinungsverschiedenheit Kontroverse Streitgespräch Streit,337,321,13,16
+bn:00005600n argument statement - argomentazione attestazione argomento - Argument,415,404,29,34
+bn:00005702n upper_arm arm free_upper_limb - arto_superiore_libero braccio arto_superiore - Arm Oberarm Hinterarm,256,214,0,34
+bn:00005704n arm weapon weapon_system - arma ordigno - Arm Waffe,528,440,10,71
+bn:00005706n arm subdivision branch - divisione succursale filiale - Gliederung Filiale,126,126,0,2
+bn:00005803n ground_forces regular_army army - forze_armate esercito milizia - Konstitutionelle_armee Armee Heer,380,328,14,67
+bn:00005926n art fine_art - arte - Kunst,395,391,18,104
+bn:00006045n arteria_renalis renal_artery - arterie_renali - Arteria_renalis,0,0,0,0
+bn:00006121n article - voce articolo - Artikel Bericht Meldung,504,503,8,128
+bn:00006124n article - articolo - Artikel Geschlechtswort Begleiter,448,441,11,115
+bn:00006140n human_knee knee_joint knee - ginocchio - Kniegelenk Knie,224,157,0,15
+bn:00006157n artisan artificer journeyman craftsman - artigiano - Handwerker Wandergeselle Geselle,129,111,0,7
+bn:00006178n gunner artilleryman cannoneer - cannoniere artigliere - Artillerist Kanonier,6,4,0,1
+bn:00006182n artist creative_person - artista - Künstlerin Künstler,408,356,25,86
+bn:00006382n aspect side facet - aspetto lato faccia - Fassette Facette,249,247,25,11
+bn:00006384n vista view panorama - vista prospetto visuale - Aussicht Panoramabild,310,304,97,24
+bn:00006386n facial_expression expression look - espressione aria sguardo - Ausdruck Miene Gesichtsausdruck,501,493,7,62
+bn:00006506n son_of_a_bitch cocksucker asshole - stronzo idiota testa_di_cazzo - Arschloch,46,45,0,12
+bn:00006565n assurance self-assurance sureness - baldanza sicurezza_di_sé sicurezza - Selbstvertrauen Gewissheit Selbstsicherheit,97,89,0,3
+bn:00006605n star asterisk - stelletta asterisco - Sternchen,43,32,0,0
+bn:00006808n conditions weather_condition weather - meteo tempo - Wetter,322,282,19,59
+bn:00006814n atom - atomo - Atom,170,123,0,21
+bn:00006847n cl atomic_number_17 chlorine - cloro - Chlor,146,82,0,18
+bn:00006883n iodine i atomic_number_53 - iodio - Iod Jod,111,51,0,1
+bn:00006912n atomic_number_8 o oxygen - ossigeno - Oxygen Sauerstoff Oxygenium,263,167,0,23
+bn:00007011n try attempt effort - prova fatica sforzo - Versuch,486,482,88,24
+bn:00007020n attention attending - attenzione avvertenza - Aufmerksamkeit,291,249,5,49
+bn:00007047n mental_attitude attitude disposition - punto_di_vista posizione atteggiamento - Einstellung Neigung,394,357,15,32
+bn:00007051n barrister attorney lawyer - avvocato avvocatessa legale - Rechtsanwältin Rechtsanwalt Advokat,266,224,7,12
+bn:00007096n audience - ascoltatori pubblico uditorio teatro - Publikum,289,251,44,21
+bn:00007140n august aug - agosto - August,218,175,0,4
+bn:00007146n zero nothing null - zero niente 0 - Überhaupt_nichts Nix 0,3,3,0,0
+bn:00007287n writer author - scrittore autore autrice - Verfasser Autor Schriftsteller,435,375,24,77
+bn:00007293n authorization authority authorisation - autorità facoltà balia - Autorisierung Ermächtigung Herrschaft,292,292,55,23
+bn:00007299n authorities government regime - autorità governo regime - Regime,351,311,2,77
+bn:00007309n machine auto automobile car - vettura autovettura macchina auto automobile - Auto Pkw Wagen Automobil,698,566,101,77
+bn:00007393n postmortem_examination necropsy post-mortem - autopsia necropsia necroscopia - Obduktion Autopsie Nekropsie,18,15,0,0
+bn:00007406n autumn fall - autunno - Herbst,219,166,0,13
+bn:00007496n award awarding - sentenza - Entscheid Spruch,152,152,0,4
+bn:00007630n baby infant babe - bebè infante neonato - Säugling Baby Kleinkind,312,267,0,28
+bn:00007727n dorsum back human_back - schiena dorso spalla - Rückenlehne Dorsum Rücken,338,289,0,41
+bn:00007930n bag cup_of_tea dish - specialità pane_quotidiano - Ding,96,96,0,5
+bn:00007985n discipline subject study - ramo disciplina ambito - Disziplin,361,352,18,27
+bn:00008043n balance - assetto equilibrio bilanciamento - Gleichgewicht Balance,312,311,0,36
+bn:00008120n ball - pallone palla - Ball,326,301,0,58
+bn:00008198n ballot vote voting - scheda_elettorale voto votazione - Wahlverfahren Abstimmung Stimmzettel,385,357,0,20
+bn:00008279n lot set band circle - cerchia gruppo circolo giro - Bande Gruppe Mannschaft Trupp Stamm,702,694,173,120
+bn:00008280n band - banda complesso gruppo_musicale - Band Kapelle Musikkapelle,337,330,9,20
+bn:00008287n band ring - anello - Fingerring Reifen Fingerreif,213,192,0,9
+bn:00008289n band - fascia - Band,246,245,0,15
+bn:00008290n band ring - anello - Ring,261,260,0,47
+bn:00008321n bandstand outdoor_stage stand - chiosco_della_musica cassa_armonica stand - Stand Kiosk Pavillon,125,118,0,4
+bn:00008361n banjo - bangio banjo - Banjo,57,25,0,4
+bn:00008364n banking_concern bank depository_financial_institution - banco banca cassa - Bankhaus Kreditinstitut Bank,448,381,101,72
+bn:00008367n bank - banca - Organbank Bank,386,386,47,107
+bn:00008378n cheque check bank_check - chèque assegno_bancario assegno - Scheck,95,79,0,1
+bn:00008438n banshee banshie - banshee - Banshee,0,0,0,0
+bn:00008467n bar prevention - prevenzione - Vorbeugung Prävention,210,210,0,45
+bn:00008546n barbital barbitone veronal - barbital veronal - Barbital,0,0,0,0
+bn:00008614n agricultural_building barn - stalla fienile granaio - Scheuer Wirtschaftsgebäude Scheune,182,131,0,3
+bn:00008786n foundation basis fundament - retroterra cardine sostrato - Grundlage Basis,172,171,0,25
+bn:00008793n theme stem root - radice tema base - Wurzel Wortstamm Grundwort,433,425,12,52
+bn:00008804n baseball ball baseball_game - baseball pallabase partita_di_baseball - Baseball,78,46,0,14
+bn:00008824n cellar basement - cantina scantinato seminterrato - Kellergeschoss Keller Untergeschoss,210,143,0,13
+bn:00008947n phloem bast - libro floema - Phloem,1,0,0,0
+bn:00008977n bat chiropteran - chirotteri chiroptera pipistrello - Fledertiere Fledermaus Flattertiere,110,52,0,11
+bn:00008979n bat cricket_bat - racchetta mazza mazza_da_cricket - Schläger Cricketschläger Keule,95,94,0,13
+bn:00009078n battle fight engagement - combattimento scontro lotta battaglia - Gefecht Kampf Innenstaatlicher_konflikt Keilerei Prügelei,543,508,33,62
+bn:00009439n beauty - bello estetica bellezza - Schönheit,308,307,4,77
+bn:00009472n bed - giaciglio letto - Bett,275,231,0,17
+bn:00009495n bedroom chamber bedchamber - camera_per_gli_ospiti camera_degli_ospiti alcova - Schlafstube Schlafzimmer Schlafgemach,41,24,0,3
+bn:00009524n anthophila bee - ape pecchia anthophila - Biene Bienen Imme,204,133,0,12
+bn:00009589n brewing_industry ale beer - birra settore_della_birra industria_della_birra - Brauindustrie Gerstensaft Bier,329,250,0,35
+bn:00009616n male_parent father begetter - padre papà padre_biologico - Papa Vater,363,316,92,69
+bn:00009632n beginning commencement start - principio avvio inizio - Start Beginn Anfang,538,535,33,42
+bn:00009633n offset outset beginning - primo_periodo avvio alba inizio - Beginn Anfang,401,397,27,14
+bn:00009635n origin beginning root - sorgente radice origine - Wurzel Ursprung Anfang,778,775,1,119
+bn:00009654n conduct behaviour behavior - metodo condotta comportamento - Führung Leitung,369,369,91,25
+bn:00009676n beingness being existence - essere presenza esistenza - Existenz Dasein Bestehen,575,494,15,33
+bn:00009770n bellboy bellhop bellman - fattorino boy facchino - Pikkolo Hoteldiener Page,5,3,0,1
+bn:00009815n belongings holding property - bene possesso possedimento - Eigentum Besitz,468,466,8,74
+bn:00009850n bench skamya - banco panchina panca - Skamja Sitzbank Bank,162,144,0,8
+bn:00010217n word_of_god bible book holy_writ - sacra_scrittura bibbia - Bibel,100,77,0,10
+bn:00010260n dictation bidding command - comando ordine intimazione - Kommando Befehl,348,348,0,43
+bn:00010373n bile gall - bile fiele - Galle,74,49,0,4
+bn:00010392n measure bill - stesura atto proposta_di_legge - Gesetzesentwurf Gesetzentwurf,189,177,3,6
+bn:00010605n eu- bird - volatile uccello pennuto - Vögelchen Vogel Piepmatz,289,215,4,38
+bn:00010728n second minute moment - istante attimo secondo - Augenblick Moment Sekunde,545,545,17,51
+bn:00010750n bite chomp - morso addentatura - Beißen Biss,71,70,0,7
+bn:00010820n negroid negro black - nero moro negroide - Negride Schwarzer Schwarze,117,102,0,6
+bn:00011119n coverlet cover blanket - coltre coperta copriletto - Wolldecke Bettdecke Decke,208,178,0,29
+bn:00011187n blister bulla bleb - bolla vescica galla - Blase Bulla Hautblase,86,74,0,5
+bn:00011308n block - blocco - Block,236,235,1,8
+bn:00011346n blood - sangue - Blut,394,294,0,84
+bn:00011357n brother blood_brother - fratello fratello_di_sangue - Bruder,298,266,9,36
+bn:00011389n serum blood_serum - siero siero_sanguigno - Blutserum Serum,17,9,0,1
+bn:00011614n blur fuzz - immagine_sfocata sfocatura - Verschwommenes_bild Ahnung,0,0,0,0
+bn:00011639n plank board - tavola asse - Brett Planke,164,156,0,8
+bn:00011744n physical_structure organic_structure body - organismo corpo - Körper Leib,476,453,49,121
+bn:00011766n waterbody water body_of_water - corpo_d'acqua acqua massa_d'acqua - Gewässer,321,297,0,61
+bn:00011853n tree_trunk bole trunk - tronco fusto tronco_d'albero - Baumstamm Stamm,148,132,0,10
+bn:00012036n bonnet hood cowling - cappa kappa cofano - Cowling Motorhaube Haube,141,124,0,8
+bn:00012059n book - libro - Buch,599,493,66,112
+bn:00012060n volume book - volume libro tomo - Band,426,412,71,63
+bn:00012062n playscript script book - trama script sceneggiatura - Musical Skript Drehbuch,398,381,5,36
+bn:00012066n book - libro blocchetto - Buch,485,484,93,160
+bn:00012135n scholarly_method bookselling scholar - studioso erudito letterato - Buchhandlung Buchhandel,48,43,0,1
+bn:00012212n delimitation borderline border - delimitazione confine frontiera - Staatsgrenze Abgrenzung Grenze,467,420,0,38
+bn:00012214n border edge - bordo orlo margine - Rand Umriss,355,354,0,29
+bn:00012273n cattle kine bos_taurus - bestiame bos_taurus mucca - Kühe Hausrind Rindvieh,104,48,0,7
+bn:00012289n bosom heart - cuore - Herz,416,416,21,91
+bn:00012339n bottle - bottiglia - Flasche Bouteille,284,237,0,29
+bn:00012340n bottleful bottle - biberon bottiglia boccia - Flasche,304,304,0,54
+bn:00012513n pin bowling_pin - birillo - Kegel,7,7,0,0
+bn:00012569n male_child boy - fanciullo bambino figliolo - Bub Bursche Junge,347,313,77,47
+bn:00012679n encephalon brain - cerebro cervello encefalo - Denkorgan Denkapparat Gehirn Hirn,297,221,0,29
+bn:00012681n psyche nous mind - mente pensiero psiche - Nous Psyche Geist,421,322,103,42
+bn:00012808n brassica genus_brassica - brassica - Kohl,0,0,0,0
+bn:00012886n breadbasket stomach tummy - addome stomaco pancia - Bauch Magen,247,167,0,32
+bn:00012960n sternum breastbone manubrium - sternale sterno sterno_umano manubrio_dello_sterno - Sternum Brustbein_des_menschen Brustbein,5,0,0,0
+bn:00013077n bridge span list_of_roman_bridges - ponte ponti_romani - Brücke Liste_römischer_brücken,331,261,0,25
+bn:00013083n bridge bridgework - ponte - Brücke,307,304,0,46
+bn:00013340n creek brook - rivo ruscello rio - Bach,82,69,0,19
+bn:00013379n union trade_union labor_union - organizzazione_sindacale sindacato - Gewerkschaft,230,196,6,27
+bn:00013489n brush - pennello spazzola - Bürste Pinsel,196,156,0,23
+bn:00013491n brush - spazzole spazzola - Bürste Kohlebürste,122,119,0,13
+bn:00013722n edifice building public_building - costruzione edificio palazzo stabile fabbricato - Bauwerk Bau Gebäude,509,395,29,66
+bn:00013723n construction construction_work building - fabbricazione edificazione edilizia - Bauwerk Bauausführung Aufbauen,184,155,0,9
+bn:00013767n bulk majority - maggior_parte generalità maggioranza - Großteil,266,265,0,3
+bn:00013807n bullet slug ball - proiettile palla pallottola - Geschoss Ball Flugkörper,442,420,0,65
+bn:00013873n cluster clustering bunch - gruppo mazzo mucchio - Strauß Bund,231,231,19,3
+bn:00013984n cemetery burial_ground graveyard necropolis - necropoli camposanto cimitero - Gottesacker Nekropole Friedhof,193,142,0,10
+bn:00014136n business_organisation concern business - compagnia ditta affari - Geschäft,425,412,100,57
+bn:00014137n business_enterprise business commercial_enterprise - attività impresa impresa_commerciale - Geschäft Kommerzielles_unternehmen Geschäftsbetrieb,492,422,180,106
+bn:00014138n occupation business job - lavoro mestiere occupazione - Beschäftigung Arbeit Anstellung Tätigkeit,673,632,202,174
+bn:00014160n house business_firm firm - aziende società azienda - Betrieb Unternehmen Firma,536,510,156,192
+bn:00014169n office business_office - studio ufficio uffizio - Bürogebäude,62,62,0,20
+bn:00014373n c degree_centigrade degree_celsius - c grado_celsius grado_centigrado - Grad_celsius,1,0,0,0
+bn:00014710n month months calendar_month - mese mese_civile - Monat,473,446,29,95
+bn:00014731n caliber quality calibre - qualità calibro bontà - Qualität,490,488,109,154
+bn:00014808n telephone_booth telephone_kiosk call_box - cabina_telefonica - Rufsäule Telefonzelle,8,7,0,0
+bn:00014839n career vocation calling - vocazione carriera - Karriere Laufbahn Beruf,543,525,0,58
+bn:00015008n photographic_camera camera still_camera - macchina_fotografica apparecchio_fotografico fotocamera - Fotoapparat Kamera,234,191,0,33
+bn:00015051n campaign movement effort - campagna causa crociata - Sache,485,485,126,45
+bn:00015211n candle taper wax_light - moccolo candela - Kerze,173,172,0,19
+bn:00015267n domestic_dog canis_familiaris dog - cane canis_familiaris canis_lupus_familiaris - Töle Canis_lupus_familiaris Hund,362,294,18,78
+bn:00015540n paris capital_of_france french_capital - parigi - Paris Île-de-france,132,61,0,22
+bn:00015554n capital_of_ireland dublin irish_capital - dublino dublin - Dublin,107,49,0,17
+bn:00015784n head caput - testa cranio chiorba - Haupt Kopf,408,363,43,66
+bn:00015983n cardiomegaly enlarged_heart megacardia - cardiomegalia - Kardiomegalie,0,0,0,0
+bn:00016256n mailman postman letter_carrier - postiere procaccia postino - Zustellerin Postbotin Briefzustellerin,0,0,0,0
+bn:00016401n instance example case - caso esempio - Instanz Exemplar Beispiel,637,637,59,132
+bn:00016402n event case - caso - Fall,501,500,207,172
+bn:00016403n cause lawsuit case - caso azione_legale causa - Rechtsstreit Rechtsfall Gerichtsverfahren,343,304,16,39
+bn:00016606n kitty house_cat cat - micio gatto gatto_domestico - Hauskatze Mietzekatze Stubentiger,93,56,0,4
+bn:00016673n electrophoresis ionophoresis cataphoresis - elettroforesi - Elektrophorese,0,0,0,0
+bn:00016733n class family category - genere ordine famiglia - Klasse Kategorie,695,694,117,147
+bn:00016845n causal_agency causal_agent cause - causa agente_causale - Anlass Verursacher Ursache,398,397,3,77
+bn:00016913n milliliter millilitre cubic_centimetre - centimetro_cubo ml millilitro - Kubikzentimeter Milliliter,22,19,0,0
+bn:00017027n cell - cellula - Zelle,413,336,0,62
+bn:00017134n shopping_mall mall shopping_centre - centro_commerciale - Einkaufszentrum,126,119,0,17
+bn:00017163n cm centimetre centimeter - centimetro cm. cm - Zentimeter,147,128,0,24
+bn:00017234n century - secolo centennio - Zentennium Säkulum Jahrhundert,337,298,2,16
+bn:00017339n cerebration thought thinking - pensiero attivita'-psichica ideazione - Denken,283,216,48,33
+bn:00017395n cervix neck - cervice collo - Hals Nacken Genick,221,157,0,36
+bn:00017487n concatenation chain - catena - Verkettung Konkatenation Aneinanderreihung,17,17,0,1
+bn:00017488n chemical_chain chain - catena - Kette,231,230,0,33
+bn:00017489n chain - catena - Kette,246,244,0,33
+bn:00017490n chain_store chain - catena - Kette,234,230,0,31
+bn:00017492n chain - catena - Chain,38,38,0,3
+bn:00017493n ernst_boris_chain chain ernst_chain - ernst_boris_chain - Ernst_boris_chain,0,0,0,0
+bn:00017494n mountain_range chain mountain_chain - giogaia catena catena_montuosa - Gebirge Bergkette Gebirgskette,76,54,0,8
+bn:00017515n chair chair_leg - sedia gamba_della_sedia seggiola - Stuhl Sessel Stuhlbein,186,147,0,12
+bn:00017605n champ champion title-holder - campionessa campione - Champion,157,141,0,24
+bn:00017621n opportunity chance possibility - opportunità momento possibilità - Möglichkeit Gelegenheit,631,623,142,133
+bn:00017624n chance probability - opportunità probabilità chance - Möglichkeit Chance Wahrscheinlichkeit,565,513,6,45
+bn:00017718n lid chapeau hat - copricapo cappello chapeau - Chapeau! Kappe Mütze,196,144,0,10
+bn:00017749n part character role - ruolo parte - Persona,15,15,0,0
+bn:00018024n cheek cheeks - guancia guance gota - Wange Backe,158,93,0,16
+bn:00018038n cheese yamshd - cacio formaggio - Käse,276,200,2,38
+bn:00018121n reaction chemical_reaction - reazione_chimica reazioni_chimiche reazione - Chemische_reaktion,22,21,0,0
+bn:00018207n pectus chest thorax - torace costato petto - Brusthöhle Thorax Brustkorb,149,80,0,13
+bn:00018253n city_of_chicago windy_city chicago - chicago - Chicago Chikago,169,118,0,78
+bn:00018345n minor child kid - fanciullo bambino giovane - Jugendliche Kind Minderjährigkeit,700,669,111,209
+bn:00018346n children child kid - figlio_piccolo bambino bambine - Kinder,188,182,29,0
+bn:00018365n childhood - verde_età infanzia fanciullezza - Kindheit,223,222,0,22
+bn:00018366n history_of_childhood_in_europe puerility childhood - infanzia - Kindheit,222,186,0,17
+bn:00018661n selection choice pick - scrematura scelta cernitura - Anwahl Auswahl Brot,448,448,170,58
+bn:00018756n job chore task - lavoro compito incarico - Aufgabe Arbeit Pflicht,659,659,180,166
+bn:00018805n good_shepherd jesus_christ jesus - cristo redentore buon_pastore - Jesus_christus Heiland Guter_hirte,122,95,0,12
+bn:00018819n church christian_church - chiesa - Kirche,355,311,20,82
+bn:00018876n column chromatography_column - colonna - Säule,237,237,0,24
+bn:00018991n fall_guy mug chump - uccellaccio gonzo balordo - Leichtgläubiges_opfer Trottel Einfaltspinsel,3,3,0,0
+bn:00018995n church_building church - chiesa - Kirche Kirchengebäude,359,319,71,81
+bn:00019218n circumstance - condizione circostanza occasione - Umstand,433,430,69,74
+bn:00019283n people citizenry - popolo gente popolazione - Bürgerschaft,135,127,0,11
+bn:00019319n city metropolis urban_center - città urbe centro_urbano - Metropole Stadt Großstadt,503,474,148,126
+bn:00019384n civilization civilisation - civiltà - Kultur Zivilisation,278,214,0,19
+bn:00019403n claim - pretesa - Anspruch,146,143,1,8
+bn:00019459n lucidness clearness clarity - chiarezza limpidezza nettezza - Deutlichkeit Klarheit,264,264,0,28
+bn:00019477n grade form class - anno classe corso - Klasse Kurs,831,827,80,226
+bn:00019479n course_of_instruction course course_of_study - corso scuola classe - Klasse Kurs,553,529,8,78
+bn:00019625n clay mud - melma fanghiglia limo - Schlamm Multi_user_dungeon,58,40,0,7
+bn:00019647n cleaning cleanup cleansing - pulizia detersione pulitura - Säuberungsaktion Reinigung,206,204,0,28
+bn:00019763n patron customer client - committente cliente avventore clientela - Kunde Konsument Endverbraucher,629,571,123,137
+bn:00019918n last finale finish stopping_point - finale fine termine - Ende,198,197,4,31
+bn:00019934n enigma mystery closed_book - arcano enigma interrogativo - Geheimnis Mysterium,174,173,0,18
+bn:00019966n completion windup closing - ultimazione compimento completamento - Vollendung Fertigstellung Vervollständigung,244,244,0,3
+bn:00019980n cloth fabric textile - tessuto roba stoffa prodotto_tessile panno - Stoff Textilie Gewebe,395,321,0,52
+bn:00020119n manager coach handler - mister responsabile allenatore_di_calcio - Manager Fußballtrainer Trainer,310,294,33,66
+bn:00020124n coaching coaching_job - coaching - Coaching,70,55,0,2
+bn:00020151n coalition coalescence concretion - coalizione blocco coalescenza - Koalition,186,184,0,18
+bn:00020164n coast seacoast seashore - riva costa riviera - Seeküste Küste Meeresküste,241,180,0,34
+bn:00020184n jacket coat - paltò soprabito casacca - Mantel Jacke,102,59,0,6
+bn:00020229n coke coca-cola coca_cola - coca coca-cola coca_cola - Coca-cola,37,30,0,12
+bn:00020238n coccidioidomycosis valley_fever coccidiomycosis - coccidiomicosi febbre_del_deserto - Kokzidioidomykose Wüstenfieber,0,0,0,0
+bn:00020298n cockroach roach - blatta scarafaggio scarrafone - Kakerlake Küchenschabe Schabe,64,48,0,6
+bn:00020314n coco_palm coconut_palm coconut - cocco palma-da-cocco noce_di_cocco - Kokosnusspalme Kokospalme Kokosnuss,151,132,1,23
+bn:00020414n health_effects_of_coffee coffee_plant coffee - caffè pianta_del_caffè chicco_di_caffè - Kaffeepflanze Kaffebohne Kaffee,301,221,0,54
+bn:00020452n noesis knowledge cognition - conoscenza cognizione episteme - Wissen Kenntnis Kognition,601,473,144,72
+bn:00020593n montage collage_art collage - collage - Collage Montage,107,84,0,13
+bn:00020726n color colour coloring - nero colorazione colore - Farbe Gesichtsfarbe Teint,535,470,77,154
+bn:00020827n column pillar - pilastro colonna - Säule,414,368,0,12
+bn:00020858n combat fighting fight - combattimento lotta battaglia - Kampf,495,483,0,56
+bn:00020889n jazz_group combo jazz_band - banda_jazz gruppo_jazz - Jazzband,25,19,0,12
+bn:00020904n comedy - commedia - Komödie,216,157,0,21
+bn:00020977n input comment remark - apprezzamento commento osservazione - Kommentar,397,397,13,40
+bn:00021015n commission committee - comitato commissione - Ausschuss Ausschuß Komitee,365,340,28,63
+bn:00021164n mother_wit sense common_sense - buon_senso buonsenso senso_comune - Gesunder_menschenverstand Gemeinsinn,41,36,0,0
+bn:00021221n communication communicating social_communication - partecipazione comunicazione_sociale comunicazione - Kommunikation,541,450,41,96
+bn:00021248n residential_community community residential_community_of_the_people's_republic_of_china - comunità quartiere collettività - Einwohnergemeinschaft Gesellschaft Community,528,469,125,114
+bn:00021284n companionship fellowship company - cameratismo compagnia spirito_di_corpo - Kameradschaft,68,67,1,1
+bn:00021286n company enterprise business - azienda società impresa - Personenvereinigung Unternehmen Kompanie,566,494,163,233
+bn:00021337n economic_competition competition - concorrenza competizione_economica concorrenza_economica - Wettbewerb Konkurrenz,421,374,22,38
+bn:00021394n ingredient constituent component - ingrediente elemento componente - Faktor Element,574,574,14,80
+bn:00021395n part portion component - componente parte - Teil,607,607,197,159
+bn:00021396n element constituent component - costituente elemento componente - Einzelteil Komponente Bauteil,561,556,116,89
+bn:00021397n composer - compositore musicista autore - Komponistin Autor Komponist,253,233,10,52
+bn:00021483n storage memory computer_memory - memoria_per_computer memoria_informatica memoria - Arbeitsspeicher Speichermedium Datenspeicher Speicher,111,100,0,30
+bn:00021501n computer_virus virus - virus_informatico virus_per_computer virus - Virus Pc-virus Computervirus,411,381,0,116
+bn:00021538n concentration - concentrazione - Konzentration,403,374,0,45
+bn:00021547n conception concept construct - nozione concetto_filosofico concezione - Philosophischer_begriff Vorstellung Auffassung,422,351,40,17
+bn:00021556n concern interest - preoccupazione interesse - Anliegen Sorge,462,461,50,97
+bn:00021582n succinctness concision conciseness - concisione brevità rapidità - Prägnanz,15,15,0,2
+bn:00021740n confidant intimate - confidente amico intimo - Vertrauter,0,0,0,0
+bn:00021751n configuration conformation shape - linea sagoma forma - Form,428,425,87,103
+bn:00021837n congregation faithful fold - congregazione - Kongregation,48,48,0,0
+bn:00021844n u.s._congress congress us_congress - congresso_degli_stati_uniti congresso congresso_degli_stati_uniti_d'america - Kongress_der_vereinigten_staaten Kongress Kongreß,192,174,0,21
+bn:00021961n effect result upshot consequence - conseguenza risultato effetto - Resultat Ergebnis Konsequenz Wirkung Folge Effekt,856,831,113,238
+bn:00021989n consideration - considerazione - Erwägung Überlegung,293,292,19,18
+bn:00022026n police_force constabulary police - polizia questura madama - Polizeitruppe Polizei Polizeiapparat Polizeikräfte,110,82,11,17
+bn:00022071n model construction structure - costruzione struttura modello - Struktur Modell,701,698,89,283
+bn:00022154n subject_matter content message - argomento messaggio oggetto - Inhalt,564,558,7,150
+bn:00022227n contract - scrittura atto contratto - Vertrag Kontrakt,437,383,38,67
+bn:00022261n direct_contrast contrast - contrasto contrapposizione - Gegensatz,166,166,0,4
+bn:00022334n convention pattern formula - convenzione regola formula - Vorschrift,413,410,11,72
+bn:00022349n conversation - colloquio conversazione dialogo - Konversation Unterhaltung Gespräch,361,334,86,45
+bn:00022381n transfer transportation transport - trasporto porto traslazione - Beförderung Transport,450,428,14,59
+bn:00022475n coping cope header - capezzata cimasa copertina - Mauerkrone,0,0,0,0
+bn:00022772n corn_flour indian_meal cornmeal - farina_di_mais - Maisgrieß Maismehl,5,2,0,0
+bn:00022811n enterprise partnership corporation - aziende società impresa - Unternehmen Körperschaft Firma,506,460,87,164
+bn:00022991n cosmos universe world - cosmo universo mondo creato - Universum All Kosmos,416,340,53,66
+bn:00022995n cost - spesa costo - Kosten,403,361,51,102
+bn:00022996n price cost monetary_value - costo prezzo valore_monetario - Preis,466,450,42,174
+bn:00023235n land country state - nazione paese stato - Land Nation Vaterland,708,644,185,251
+bn:00023236n country nation state - nazione paese stato - Staat Nation Souveräner_staat,695,587,194,211
+bn:00023237n country rural_area - campagna - Land Ländlicher_raum,367,332,46,30
+bn:00023251n county - contea - Landkreis,42,42,0,2
+bn:00023285n course line - corso ricorso - Lauf,349,348,36,49
+bn:00023301n court tribunal judicature - aula_di_tribunale giuria corte - Gerichtssaal Gericht Gerichtshof,312,287,0,23
+bn:00023496n craft trade - commercio professione artigianato - Handwerk,329,284,0,34
+bn:00023499n craft craftsmanship workmanship - maestria perizia abilità_professionale - Kompetenz,103,101,0,3
+bn:00023807n criminal_offence criminal_offense crime - crimine reato delitto - Straftat Verbrechen,348,278,0,32
+bn:00024065n movement army crowd - frotta massa folla - Bewegung Menge,596,596,89,58
+bn:00024175n cryostat - criostato - Kryostat,0,0,0,0
+bn:00024244n sonny_boy sonny lad - sbarbatello adolescente figliuolo - Bursche,112,111,0,0
+bn:00024266n litre liter cubic_decimetre - l litro - Liter,194,155,0,21
+bn:00024320n cuff_link cufflink - gemello gemelli bottone_del_polsino - Manschettenknopf,29,13,0,2
+bn:00024459n pastor minister curate - rettore curato parroco - Kurat Pfarrer Pastor,223,197,0,11
+bn:00024534n curtain pall drapery - drappo cortina tenda - Fensterdekoration Gardine Vorhang,194,173,0,20
+bn:00024550n curved_shape curve - curva - Kurve,207,204,0,30
+bn:00024592n heritage custom tradition - costumanza tradizione costume - Tradition Sitte Brauch,569,559,76,74
+bn:00024640n cuticle epiderm epidermis - epidermide - Epidermis Oberhaut,7,4,0,0
+bn:00024989n pa papa dad - padre pa' babbo - Papa Vati,443,430,2,6
+bn:00025026n rum_cocktail daiquiri - daiquiri - Daiquiri,9,5,1,0
+bn:00025028n dairy dairyman dairy_farm - produttore_di_latte industria_casearia caseificio - Molkerei Milchladen Käserei,58,44,0,2
+bn:00025062n dallas - dallas - Dallas,130,97,0,74
+bn:00025171n risk danger peril - rischio periglio pericolo - Gefahr,522,522,45,89
+bn:00025236n nighttime night dark - buio notte - Nacht Dunkelheit,485,409,37,77
+bn:00025241n dark_ages middle_ages - medio_evo secoli_bui medioevo - Mittelalter Dunkle_jahrhunderte,23,15,0,1
+bn:00025314n data information - notizia dati dato - Daten,355,320,195,20
+bn:00025364n girl daughter - figlia bambina figliola - Tochter,593,563,27,209
+bn:00025417n day - giorno tempo - Tag,524,524,64,178
+bn:00025419n daytime daylight day - giornata giorno dì - Tageslicht Heller_tag Tageszeit,172,162,2,18
+bn:00025582n decease expiry death - morire morte decesso - Tod Exitus Ableben Hinschied,129,106,0,9
+bn:00025583n death - morte - Tod,405,404,24,82
+bn:00025634n rubble detritus debris - calcinacci maceria detrito - Geröll Schutt Trümmer,213,190,0,24
+bn:00025645n dec december - dicembre decembre - Dezember,260,220,0,8
+bn:00025646n decennary decade decennium - decennio decade - Dekade Jahrzehnt Dezennium,331,302,3,6
+bn:00025913n deficiency lack want - ristrettezza penuria assenza - Mangel,280,279,6,17
+bn:00025954n defrayal defrayment payment - pagamento corresponsione liquidazione - Bezahlung,208,207,0,27
+bn:00025965n level grade degree - grado misura piano - Sorte Grad,649,641,31,131
+bn:00025995n god divinity deity - iddio signore deità - Gottheit Gott,225,202,0,29
+bn:00026107n demand need - necessario esigenza bisogno - Bedarf Bedürfnis,474,433,54,96
+bn:00026177n demonstrative demonstrative_pronoun - dimostrativo pronome_dimostrativo - Demonstrativpronomen Demonstrativ,1,1,0,0
+bn:00026308n department section list_of_united_states_federal_executive_departments - sezione dipartimento reparto - Liste_der_ministerien_der_vereinigten_staaten Abteilung,429,426,55,71
+bn:00026344n divergence departure deviation - differenza deroga distinzione - Verlassen,72,72,0,0
+bn:00026481n dervish - dervis deviscio derviscio - Derwisch Derwischin,8,7,0,3
+bn:00026516n integration desegregation integrating - integrazionismo integrazione - Integration,330,330,10,52
+bn:00026550n desire - voglia bramosia vaghezza desiderio - Begierde,73,52,0,10
+bn:00026554n desk - scrivania tavolino scrittoio - Schreibtisch,146,125,0,7
+bn:00026574n forlornness desolation loneliness - solitudine abbandono desolazione - Wüste Ort_des_elends Einsamkeit,206,159,0,25
+bn:00026601n destination finish goal - meta traguardo destinazione - Bestimmungsort Reiseziel Ziel,643,642,109,66
+bn:00026604n fate destiny - destino fato - Schicksal,260,260,0,20
+bn:00026633n investigator police_detective detective - investigatore detective - Detektiv Fahnder Ermittler,242,229,0,14
+bn:00026650n determination finding - determinazione scoperta - Bestimmung,297,295,4,23
+bn:00026695n development expansion - crescita sviluppo evoluzione - Erweiterung,387,378,99,46
+bn:00026696n development evolution - crescita sviluppo evoluzione - Weiterentwicklung Evolution,470,468,81,89
+bn:00026697n ontogeny maturation growth - crescita sviluppo ontogenesi - Wachsen Ontogenese Wachstum,428,410,132,120
+bn:00026716n device machine - congegno apparecchio dispositivo - Hilfsmittel Apparat Maschine,551,525,63,52
+bn:00026841n diameter diam - diametro - Durchmesser,180,176,0,22
+bn:00026967n lexicon dictionary - dizionario vocabolario lessico - Diktionär Wörterbuch,163,130,0,13
+bn:00026980n didactics education instruction - istruzione insegnamento educazione - Unterricht Bildung Ausbildung,574,469,41,80
+bn:00027022n difference - differenza squilibrio diversità - Unterschied Anderssein Andersartigkeit,425,423,9,45
+bn:00027024n difference remainder - residuale - Divisionsrest Rest,0,0,0,0
+bn:00027206n dinner tea supper - cena desinare - Hauptmahlzeit Nachtessen Dinner,160,135,0,32
+bn:00027355n administration management direction - amministrazione conduzione management - Management Führung Administration,622,620,136,86
+bn:00027386n soil dirt ground - terriccio terreno terra - Blumenerde Erde,435,415,140,83
+bn:00027387n dirt grunge grime - sudiciume sporcizia sporco - Schmutz Ruß,156,156,0,30
+bn:00027451n disbursement disbursal expense - spesa esborso - Aufwand,261,240,7,20
+bn:00027454n disc phonograph_record record - registrazione disco record - Schallplatte Vinyl,143,134,0,9
+bn:00027523n treatment discourse discussion - resoconto discussione disputazione - Erörterung Diskussion,438,432,53,54
+bn:00027546n morbidity malady disease - morbilità disfunzione quoziente_di_morbosità - Erkrankungsrate Krankheit Morbidität,163,133,1,25
+bn:00027573n dish - piatto scodella piatto_fondo - Teller Schüssel,180,177,3,44
+bn:00027574n dish - portata vivanda pietanza - Gericht Platte,159,133,0,29
+bn:00027576n parabolic_antenna saucer dish - parabola antenna_parabolica - Parabolantenne,5,3,0,1
+bn:00027747n distance - distanza lontananza intervallo - Entfernung Abstand Distanz,462,455,0,55
+bn:00027797n distribution statistical_distribution - distribuzione - Verteilung,289,287,1,36
+bn:00027810n dominion district territory - territorio distretto compartimento - Bezirk Stadtteil Kreis Dominion Landkreis,370,343,84,41
+bn:00027865n diversion recreation - piacere attivita'_ricreativa diversivo - Unterhaltung Erholung,57,43,0,1
+bn:00027951n vertigo dizziness lightheadedness - vertigine giramento_di_testa capogiro - Benommenheitsgefühl Schwindel Schwindelgefühl,88,47,0,6
+bn:00027976n medico doctor physician - medico dottoressa dottore dott. - Mediziner Ärztin Arzt Doktor,298,264,19,26
+bn:00028013n philosophy doctrine school_of_thought - filosofia scuola_di_pensiero dottrina - Philosophie Schule Doktrin,422,357,47,50
+bn:00028114n dollar surinamese_dollar - dollaro - Dollar,260,240,0,39
+bn:00028190n dominicus sunday sun - domenica - Sonntag Herrentag Herrntag,298,253,3,26
+bn:00028247n door doorframe door_frame - portiera sportello porta - Tür Türzarge Türrahmen,70,44,0,3
+bn:00028248n door doorway threshold - entrata soglia porta - Tür Pforte Tor,390,385,7,23
+bn:00028425n doubt dubiousness uncertainty - titubanza dubbiezza forse - Ungewissheit Zweifel Hinterfragen,38,30,0,3
+bn:00028604n play drama dramatic_play - opera_teatrale dramma - Drama Bühnenwerk,237,201,0,16
+bn:00028658n dream dreaming - sogno - Traum,346,297,4,41
+bn:00028709n driblet drop drib - goccia lacrima goccio - Tropfen Regentropfen,126,104,0,16
+bn:00028749n drink - bere bevanda consumazione - Alkoholisches_getränk Drink Trinken,200,198,0,54
+bn:00028795n motorist driver - guidatore conducente automobilista autista - Fahrer Autofahrer Automobilist,407,399,7,43
+bn:00028872n drug - farmaco medicinale droga - Rauschmittel Droge Rauschgift,380,315,0,54
+bn:00028934n land ground earth - terraferma continente terra_ferma - Boden Land Fester_boden,266,247,2,22
+bn:00029192n dust - polvere polverio - Staub,232,174,0,43
+bn:00029239n obligation responsibility duty - responsabilità dovere obbligo - Zuständigkeit Pflicht Verantwortung Verpflichtung,635,576,41,78
+bn:00029372n ears ear - orecchio orecchie oreia - Ohr Ohren,201,146,0,32
+bn:00029416n salary wage remuneration - remunerazione retribuzione stipendio - Gehalt Zeitlohn Remuneration,294,263,0,19
+bn:00029424n globe earth world - globo terra mondo - Weltkugel Blauer_planet Erde,528,442,89,101
+bn:00029425n ground earth - suolo terreno terra - Boden Erde,629,627,24,123
+bn:00029448n seism quake earthquake - sisma tremito attività_sismica - Seismische_aktivität Beben Erdbeben,198,156,0,11
+bn:00029678n economic_system economy - sistema_economico economia - Ökonomie Wirtschaftssystem Wirtschaft,609,485,69,92
+bn:00029774n editor-in-chief editor editor_in_chief - caporedattore caporedattrice redattore - Chefredakteurin Chefredakteur Redakteur,105,99,0,7
+bn:00029806n pupil educatee student - studente alunno allievo - Studentin Schüler Hochschülerin,457,421,93,79
+bn:00029897n sewer_water effluent wastewater - acque_di_scarico acque_reflue effluente - Abwasser Kläranlage,76,57,0,9
+bn:00029913n egg - ovo uovo - Ei,347,339,0,74
+bn:00030113n election - elezione - Wahl,343,298,1,32
+bn:00030230n electromyography - elettromiografia elettromiografia_ed_elettroneurografia elettromiografia_e_elettroneurografia - Elektromyografie,0,0,0,0
+bn:00030375n exclusion elision exception - eccezione - Auslassung,15,15,0,0
+bn:00030538n emery_paper sandpaper - carta-vetro carta_abrasiva carta_vetrata - Sandpapier Schmirgelpapier Schleifpapier,11,3,0,0
+bn:00030581n emotion - commozione moto emozione - Empfindung Befinden Gefühl,301,229,52,43
+bn:00030616n occupation employ employment - impiego lavoro occupazione - Erwerbstätigkeit Stelle Beruf,496,437,79,63
+bn:00030625n occupation employment job - impiego occupazione mestiere - Beschäftigung Stelle Beruf,664,661,24,106
+bn:00030627n utilisation use employment - impiego uso utilizzazione - Anstellung Gebrauch Nutzung,589,586,149,107
+bn:00030719n end ending - finale fine chiusa - Ende,471,468,22,54
+bn:00030721n end goal-like_entity goal - scopo meta obiettivo fine - Ziel,575,533,31,129
+bn:00030747n risk hazard peril - azzardo pericolo rischio - Risiko Gefährdung,660,555,25,88
+bn:00030806n gift talent endowment - talento dote estro - Talent Begabung Gabe,432,432,11,53
+bn:00030820n energy free_energy thermodynamic_free_energy - energia potenza forza - Thermodynamische_freie_energie Energie,521,445,33,101
+bn:00030844n involvement engagement involution - impegno intervento partecipazione - Teilnahme Partizipation Beteiligung,408,405,46,59
+bn:00030861n england - inghilterra england - England,149,89,0,18
+bn:00031075n environment surround environs - ambiente - Umgebung Umfeld Umwelt,589,584,65,144
+bn:00031261n era éra period - periodo era epoca - Zeitalter Ära Éra,352,326,14,25
+bn:00031322n equipment - materiale armamentario attrezzatura - Ausrüstung Ausstattung,434,431,11,76
+bn:00031337n equivalent - controvalore corrispettivo equivalente - Äquivalent Entsprechung,72,71,0,1
+bn:00031345n equus_caballus horse - equus_caballus cavallo equus_ferus_caballus - Ross Hauspferd Pferd,346,269,0,29
+bn:00031485n fault mistake error - fallo errore marrone - Fehler Schuld,514,482,26,71
+bn:00031631n necessity requisite requirement - necessario necessità bisognevole - Voraussetzung Erfordernis,370,370,78,25
+bn:00031676n estuary - estuario - Ästuar,0,0,0,0
+bn:00031694n ethanol ethyl_alcohol grain_alcohol - alcol_etilico alcol etanolo - Ethanol Spiritus Ethylalkohol,135,65,0,5
+bn:00031714n ethiopian - etiope etiopico etiopica - Äthiopier Äthiopierin,11,8,0,0
+bn:00031896n europe - europa vecchio_continente - Europa,321,259,3,44
+bn:00031998n even eve eventide evening - sera vigilia - Vorabend Abend,347,318,39,48
+bn:00032021n event - evento fatto accadimento - Ereignis,474,473,127,109
+bn:00032045n grounds evidence - prova evidenza testimonianza - Evidenz Beweis Indiz,365,334,1,29
+bn:00032099n illustration instance example - istanza esemplare esempio - Exempel Beispiel,510,509,152,72
+bn:00032175n execution slaying murder - omicidio assassinio assassinare - Mord,326,280,0,31
+bn:00032203n exercise workout physical_exercise - esercizio esercizio_fisico moto - Training Sport Übung,456,431,22,61
+bn:00032242n outlet way_out exit - via_d'uscita uscita sfogo - Ausgang,321,319,20,12
+bn:00032300n outlay outgo spending - sborsamento spesa sborso - Ausgaben Unkosten Aufwendungen,185,179,58,1
+bn:00032306n experience - esperienza - Erfahrung Erlebnis,611,563,100,134
+bn:00032307n experience - vissuto esperienza - Erfahrung Erlebnis,554,551,156,140
+bn:00032309n experiment experimentation - esperimento esperimento_scientifico sperimentazione - Versuch Experiment Experimentieren,466,434,5,25
+bn:00032322n ace expert professional - conoscitore specialista tecnico - Experte Fachmann Fachfrau,383,342,16,41
+bn:00032381n pic photo photograph - immagine fotografia foto - Bild Foto Fotografie,553,526,28,160
+bn:00032512n eye optic oculus - occhio occhi bulbo_oculare - Augen Auge Augapfel,417,341,20,73
+bn:00032555n eyepiece ocular - oculare - Okular,0,0,0,0
+bn:00032600n face human_face - viso volto faccia - Antlitz Gesicht Visage,378,322,3,60
+bn:00032645n installation facility - istallazione installazione struttura - Vorrichtung Einrichtung,489,480,145,111
+bn:00032654n fact - dati fatto elemento - Faktum Tatsache,405,401,92,100
+bn:00032655n fact - fatto - Tatsache,431,381,16,84
+bn:00032675n factory manufactory mill - manifattura stabilimento fabbrica - Manufaktur Fabrik Werk,404,355,2,31
+bn:00032768n faith religious_belief religion - religione fede credente - Gläubiger Religion Glaube,598,438,8,86
+bn:00032892n household house family - famiglia nucleo_familiare casa - Privathaushalt Haushalt,458,407,126,92
+bn:00032893n family_unit family - famiglia - Familie,461,390,66,151
+bn:00033676n farm - podere fattoria masseria - Bauernhof Farm,183,146,0,5
+bn:00033687n sodbuster farmer husbandman - contadino fattore agricoltore - Züchter Agrarier Farmer,247,230,0,22
+bn:00033718n fasciculation - fascicolazione - Faszikulation,0,0,0,0
+bn:00033729n fashion manner way - guisa modo maniera - Weg,519,518,153,96
+bn:00033813n spigot faucet cock - cannella rubinetto robinetto - Hahn Ventil,80,77,0,5
+bn:00033854n fright fearfulness fear - spavento paura timore - Bange Schreck Schrecken,236,175,0,27
+bn:00033882n february feb - febbraio - Februar,235,194,0,10
+bn:00033963n sentiment feeling - stato_d'animo commozione sentimento - Fühlen Gefühl,339,283,80,76
+bn:00033988n felis_pardalis ocelot panther_cat - ozelot leopardus_pardalis ocelot - Ozelot,0,0,0,0
+bn:00034004n fellow_member member - elemento associato socio - Mitglied,456,452,77,100
+bn:00034016n woman female female_organism - donna femmina - Weibchen Frau Weib,659,623,164,193
+bn:00034027n motherhood mother female_parent - madre genitrice mamma - Mutterschaft Mutter,421,342,92,68
+bn:00034048n fencing fence hikke - barriera recinzione cinta - Fenz Fence Hag,3,2,0,0
+bn:00034369n figure fig - figura - Abbildung,182,180,5,18
+bn:00034394n figure number - cifra numero - Anzahl,695,692,119,151
+bn:00034453n missy young_lady girl - signorina giovane madamigella - Frau Mädchen Fräulein,724,687,139,99
+bn:00034471n movie film motion_picture - pellicola film opera_cinematografica - Film,478,414,70,110
+bn:00034472n film photographic_film - pellicola film pellicola_fotografica - Film Fotografischer_film,458,442,62,121
+bn:00034473n film - pellicola film - Film Belag Überzug,497,494,134,146
+bn:00034474n plastic_film film - film - Plastikfolie,9,6,0,0
+bn:00034520n result termination resultant - esito risultato conclusione - Resultat Ergebnis,605,603,201,180
+bn:00034565n finger - dito_della_mano dita dito - Fingerchen Finger,214,173,0,38
+bn:00034623n fire - rogo fuoco incendio - Feuer Brand,481,473,5,105
+bn:00034964n flag pin - asta asta_della_bandiera - Flaggenstock,0,0,0,0
+bn:00035304n flooring floor - impiantito piancito pavimento solaio - Boden Fußboden,224,174,2,34
+bn:00035305n level storey floor - livello piano - Etage Geschoss Stock,238,219,13,23
+bn:00035324n plant flora plant_life - pianta flora vegetale - Pflanzenart Pflanzenreich Pflanze,491,373,70,56
+bn:00035370n flowing flow fluid_dynamics - getto flusso - Fluiddynamik Hydrodynamik Fluss,123,116,6,13
+bn:00035378n bloom blossom flower - agave fiore - Blüte Blume,317,260,0,54
+bn:00035426n fluid - liquido fluido - Fluid,64,52,0,12
+bn:00035482n flux flux_density - fluenza - Fluss,0,0,0,0
+bn:00035617n folklore - demologia folklore folclore - Folklore Volkstradition Volksüberlieferung,66,43,0,3
+bn:00035649n food sustenance nutriment - cibo nutriente principi_nutritivi - Essen Speise Nährstoff,447,411,89,107
+bn:00035670n garbage refuse food_waste - rifiuto spazzatura spreco_alimentare - Müll Haushaltsabfall Lebensmittelabfall,202,182,0,28
+bn:00035679n foot human_foot pes - piede - Pes Fuß,337,296,0,45
+bn:00035680n foot ft feet - piede - Fuß,344,326,0,62
+bn:00035767n force - forza - Kraft,542,541,102,74
+bn:00035768n force - potenza energia forza - Kraft,477,442,30,79
+bn:00035770n personnel force - forza personale - Kräfte,295,293,237,0
+bn:00035772n force violence - forza violenza - Gewalt,519,412,47,107
+bn:00035778n pressure force_per_unit_area pressure_level - pressione - Druck,385,346,0,45
+bn:00035806n prognostication forecasting prediction - predizione previsione pronostico - Vorhersage Prognose Voraussage,278,248,8,15
+bn:00035851n forenoon morning morning_time - mattinata mattino mattina - Vormittag Morgen,356,321,5,34
+bn:00035868n wood woods forest - selva wälder bosco foresta bosco_misto - Wälder Holz Forst Wald,473,361,0,43
+bn:00035907n sort variety kind - qualità fatta specie - Art Sorte,571,567,67,79
+bn:00035908n form pattern shape - schema forma modello - Form,604,592,42,199
+bn:00035911n form strain var. - ceppo stipite_batterico forma - Form Stamm,561,545,183,123
+bn:00035914n form phase - fase - Phase,416,408,117,54
+bn:00035960n recipe formula - ricetta formula - Kochrezept Rezept,379,378,3,58
+bn:00035986n pianoforte forte-piano piano - pianoforte piano - Piano Klavier Pianoforte,192,136,0,27
+bn:00036107n square foursquare - quadrato - Quadrat,2,2,0,1
+bn:00036111n quarter quartern one-fourth - quarto - Viertel,209,209,0,3
+bn:00036166n sherd fragment shard - coccio - Scherbe,61,57,0,5
+bn:00036184n innings inning frame - ripresa inning - Innings,28,28,0,8
+bn:00036197n model framework theoretical_account - modello_economico modello - Wirtschaftsmodell Modell,496,467,190,112
+bn:00036512n friday fri - venerdì - Freitag,210,182,3,25
+bn:00036538n friend - amicizia amico - Freundin Freund,403,399,140,97
+bn:00036805n muff fumble - fumble - Fumble,0,0,0,0
+bn:00036806n smoke fume - fumo - Rauch Schwaden,257,193,0,44
+bn:00036821n single-valued_function mapping function - funzione funzione_matematica mappa - Funktion Abbildung,526,497,133,99
+bn:00036822n use role function - scopo fine funzione - Funktion Funktionalität,594,594,32,132
+bn:00036823n part role function - ruolo funzione ufficio carica - Amt,399,398,94,63
+bn:00036837n functionary official - funzionario pubblico_ufficiale ufficiale - Funktionärin Leitender_beamter Beamtin,78,71,0,1
+bn:00036893n furlong - furlong - Furlong,0,0,0,0
+bn:00036941n futurity time_to_come future - domani a_venire avvenire - Zukunft,205,182,0,25
+bn:00036957n gm gramme gram - grammo g gramma - Gramm,170,148,0,18
+bn:00037089n gall_bladder gallbladder - vescichetta_biliare cistifellea colecisti - Gallenblase,48,16,0,4
+bn:00037180n game - partita gioco - Spiel,511,453,61,161
+bn:00039484n ribes genus_ribes - ribes - Johannisbeeren,1,0,0,0
+bn:00040002n tropidoclonion genus_tropidoclonion tropidoclonion_lineatum - tropidoclonion tropidoclonion_lineatum - Tropidoclonion Tropidoclonion_lineatum,0,0,0,0
+bn:00040492n taphouse pub public_house - osteria gargotta pub - Pub Kneipe Bar,161,127,0,9
+bn:00040593n glanders - moccio morva - Rotz,0,0,0,0
+bn:00040605n glass - vetro - Glas,328,267,0,51
+bn:00040732n glottochronology - glottocronologia - Glottochronologie,0,0,0,0
+bn:00040758n mucilage glue gum - gomma colla collante - Schleimstoff Leim Klebstoff,158,151,0,27
+bn:00040846n goal - gol rete porta - Tor,282,269,49,41
+bn:00040847n goal - gol rete goal - Eishockeytor,0,0,0,0
+bn:00040878n god supreme_being - dio - Gott,365,270,0,66
+bn:00041113n gop republican_party - partito_repubblicano - Republikanische_partei,0,0,0,0
+bn:00041241n score grade mark - voto punteggio votazione - Note Zensur,370,368,0,17
+bn:00041362n grandniece great-niece - pronipote - Großnichte,5,3,0,1
+bn:00041433n grass - erba - Gras,218,174,0,37
+bn:00041807n smile smiling grinning - sorriso - Lächeln,206,176,0,28
+bn:00041853n training grooming preparation - istruzione preparazione formazione - Schulung Training Ausbildung,553,525,19,105
+bn:00041881n reason occasion ground - motivo ragione causa ragionamento - Grund,543,543,9,78
+bn:00041883n soil ground land - suolo terreno terra - Boden Blumenerde Erde,699,695,93,168
+bn:00041942n grouping group - gruppo novero - Gruppe,497,485,196,189
+bn:00041948n group_meeting meeting rally - convocazione convegno consulta - Besprechung,170,158,0,6
+bn:00042150n guitar - chitarra - Gitarre,232,176,0,26
+bn:00042160n gulf - golfo - Meerbusen Golf,63,60,0,5
+bn:00042191n gully - canale calanco - Erosionsrinne,0,0,0,0
+bn:00042221n fire_arm gun projectile_weapon - pistola arma_balistica arma_da_fuoco - Feuerwaffe Schusswaffe,133,105,0,7
+bn:00042379n water h2o - acqua h₂o - Wasser H₂o,531,403,6,114
+bn:00042483n hemorrhoid haemorrhoid piles - emorroidi - Hämorrhoiden,2,0,0,0
+bn:00042526n hair - pelo peluria capello - Haaresbreite Haar,346,284,0,83
+bn:00042601n one-half ½ half - ½ mezzo metà - Hälfte Ein_halb,447,441,8,19
+bn:00042647n half-time half_time halftime - intervallo tempo_di_gioco - Halbzeit,65,61,1,1
+bn:00042663n corridor hallway hall - hall corridoio - Korridor Halle,281,239,8,13
+bn:00042759n paw mitt hand - mano - Hand,481,434,24,92
+bn:00042803n handshake handshaking handclasp - stretta_di_mano - Händedruck Händeschütteln Handschlag,1,1,0,0
+bn:00042808n shooting_iron handgun pistol - pistola rivoltella - Faustfeuerwaffe Revolver Pistole Kurzwaffe,80,64,0,10
+bn:00042823n treatment handling - gestione trattamento modo_di_trattare - Behandlung Behandeln Umgang,490,489,150,88
+bn:00042833n human_resources work_force manpower - forza_lavoro risorse_umane manodopera - Arbeitskräfte Arbeiterschaft Belegschaft,104,93,0,0
+bn:00042843n odd-job_man handyman jack_of_all_trades - factotum tuttofare tutto_fare - Mädchen_für_alles Hausmeister Heimwerker,3,3,0,1
+bn:00042904n occurrent happening occurrence - avvenimento accaduto occorrimento - Happening,10,9,0,0
+bn:00043011n trauma harm injury - ferita danno trauma - Trauma,293,281,0,41
+bn:00043267n head question - capo capitolo questione - Fragestellung,210,207,56,22
+bn:00043358n health human_health wellness - benessere salute_umana sanità salute - Menschliche_gesundheit Wohlbefinden Gesundheit,487,416,46,89
+bn:00043383n pump ticker heart - superficie_diaframmatica superficie_diaframmatica_del_cuore cuore - Herz,421,352,18,76
+bn:00043415n heat sensation_of_warmth thermal_energy - calore energia_termica - Thermische_energie Wärme,267,207,0,36
+bn:00043484n week hebdomad - settimana eddomada ebdomada - Woche,430,378,29,67
+bn:00043492n israelite jew hebrew - israelita ebrei giudeo - Juden Jude Israelitin,160,123,0,4
+bn:00043708n henry_david_thoreau thoreau - henry_david_thoreau - Henry_david_thoreau,0,0,0,0
+bn:00044141n colina hill loma - poggio collina montuosità - Hügel,156,111,0,13
+bn:00044256n histology - istologia - Gewebelehre Histologie,30,5,0,2
+bn:00044258n historian historiographer - storiografo storico - Historiker,152,141,1,24
+bn:00044267n history - storia - Historie Geschichte,436,434,143,128
+bn:00044415n vacation holiday - feria vacanza villeggiatura ferie - Urlaub Ferien,354,310,0,41
+bn:00044441n sherlock_holmes holmes - sherlock_holmes - Sherlock_holmes,0,0,0,0
+bn:00044576n human_being human man homo - uomo essere_umano homo - Homo_sapiens_sapiens Homo Mensch,361,277,66,93
+bn:00044754n hopscotch_court hopscotch - campana mondo - Hüpfspiel Paradiesspiel Tempelhüpfen,0,0,0,0
+bn:00044896n hospital infirmary clinic - nosocomio clinica infermeria - Klinik Hospital Krankenhaus,282,234,1,18
+bn:00044967n hotel_industry hotel - albergo industria_alberghiera hotel - Hotellerie Hotel,328,256,1,73
+bn:00044982n time_of_day hour - ora - Tageszeit,88,83,0,12
+bn:00044994n dwelling house home - abitazione casa domicilio - Haus,516,426,121,115
+bn:00045106n husband hubby married_man - sposo compagno ammogliato - Ehegesponst Gemahl Gatte,173,147,0,6
+bn:00045153n humankind man world - genere_umano mondo umanità - Welt Menschheit,699,620,141,178
+bn:00045161n relationship interpersonal_relationship human_relationship - relazione legame vincolo relazione_interpersonale - Zwischenmenschliche_beziehung Beziehung Verbindung,553,506,36,97
+bn:00045190n humidness air_humidity humidity - umidità - Luftfeuchtigkeit,149,117,0,8
+bn:00045278n pitcher twirler hurler - lanciatore - Pitcher,39,39,0,2
+bn:00045532n hyperplasia - iperplasia - Hyperplasie,13,7,0,2
+bn:00045629n hypothalamus - ipotalamo - Hypothalamus,0,0,0,0
+bn:00045632n theory possibility hypothesis - ipotesi teoria possibilità - Hypothese,270,223,0,18
+bn:00045637n hypothyroidism - ipotiroidismo - Schilddrüsenunterfunktion Hypothyreose,33,18,0,1
+bn:00045705n water_ice ice - ghiaccio - Eis,238,181,0,20
+bn:00045722n ice_cream icecream - gelato ice_cream sorbetto - Speiseeis Eiscreme Eis,128,92,0,17
+bn:00045768n icicle - ghiacciolo - Eiszapfen,6,6,0,0
+bn:00045772n image icon picture - figura illustrazione immagine - Abbild Zeichnung Abbildung,467,403,6,63
+bn:00045800n thought idea - pensiero idea - Idee,473,405,95,125
+bn:00045824n identity personal_identity individuality - identità identità_personale individualità - Identität,457,409,21,97
+bn:00045825n identity - identità - Identität,485,484,20,115
+bn:00045921n ileum - ileo - Krummdarm Ileum,7,4,0,1
+bn:00045960n illusion semblance - miraggio illusione - Illusion,189,151,0,9
+bn:00045970n image mental_image picture - rappresentazione raffigurazione immagine - Abbild Bild Bildliche_vorstellung,577,541,128,145
+bn:00045979n vision imaginativeness imagination - vista ideazione immaginazione - Sehkraft Augenlicht Einbildung,97,96,0,4
+bn:00046052n immunoelectrophoresis - immunoelettroforesi - Immunelektrophorese,0,0,0,0
+bn:00046139n meaning import significance - senso valore significato - Signifikat Bedeutung,519,485,63,87
+bn:00046143n importance - valore sostanziosità rilevanza - Belang Wichtigkeit,298,297,9,21
+bn:00046176n impressionist - impressionista - Impressionist,45,27,0,1
+bn:00046191n improvement - miglioramento miglioria perfezionamento - Verbesserung,313,309,12,36
+bn:00046209n inch in - pollice - Zoll,112,97,0,20
+bn:00046282n incident - caso episodio avvenimento - Nebeneffekt Folge Verpflichtung,360,359,89,35
+bn:00046406n independency independence - autonomia indipendenza - Unabhängigkeit,356,355,0,35
+bn:00046516n someone person somebody - mortale individuo persona - Person Mensch Individuum,643,556,172,228
+bn:00046568n plant industrial_plant works - stabilimento impianto fabbrica opificio - Industrieanlage Anlage,440,434,79,27
+bn:00046576n manufacture industry - attivita'_industriale industria - Produktion Herstellung Branche,451,370,66,62
+bn:00046660n infielder - interno - Infielder,0,0,0,0
+bn:00046665n space_in_physics space infinite - ambiente spazio - Raum,504,448,176,114
+bn:00046693n influence clout - influenza potenza ascendente - Einfluss,408,404,8,23
+bn:00046705n information info - informazione - Information,473,408,56,149
+bn:00046942n minute instant moment - momento istante secondo - Augenblick Instant Moment,501,488,145,62
+bn:00046958n educator instructor teacher - insegnante docente istruttore - Erzieher Lehrerin Erzieherin,276,247,1,19
+bn:00046975n instrumentalist player musician - musico musicista strumentista - Musiker Instrumentalist Musikantin Spielmann,310,285,90,44
+bn:00046999n insurance_company insurance_underwriter insurer - assicuratore società_di_assicurazione societa'_di_assicurazione - Versicherer Versicherungsgeber,149,139,0,1
+bn:00047008n intangible intangible_asset - cespite_immateriale - Immaterieller_vermögensgegenstand,0,0,0,0
+bn:00047025n intelligence - raziocinio comprendonio intelligenza - Intelligenz Klugheit,267,190,11,28
+bn:00047042n intensity strength intensity_level - intensità - Intensität,276,263,0,34
+bn:00047077n involvement interest - interesse - Interesse,430,427,147,89
+bn:00047079n interestingness interest - interesse interessamento - Interesse,399,398,172,91
+bn:00047083n pursuit interest pastime - preoccupazione divertimento diporto - Liebhaberei Hobby Steckenpferd,238,235,12,3
+bn:00047118n trespasser intruder interloper - intruso - Half-life:_uplink Eindringling,78,78,0,1
+bn:00047159n international_mile mile statute_mile - miglio_terrestre_inglese miglio nodo - Meile,128,110,0,3
+bn:00047235n treatment intervention - trattamento terapia cura - Behandlung,497,476,18,90
+bn:00047521n satirist ridiculer ironist - autore_satirico ironista caricaturista - Satiriker Satirikerin,29,26,0,0
+bn:00047635n isocyanate - isocianato isocianati - Isocyanate,1,1,0,1
+bn:00047687n issuing issue issuance - emissione - Ausgabe,316,315,24,22
+bn:00047688n issue - problema questione - Angelegenheit,320,320,45,55
+bn:00047730n item point - voce elemento - Stichwort,143,142,2,11
+bn:00047908n jamaican - giamaicano giamaicana - Jamaikaner Jamaikanerin,0,0,0,0
+bn:00048242n problem job - problema - Problem,499,470,66,142
+bn:00048493n judgment judgement mind - giudizio - Ansicht Meinung,368,367,35,27
+bn:00048592n june - giugno - Juni Brachet,280,238,0,15
+bn:00048655n jurisprudence law - giurisprudenza diritto legge - Gesetz Recht,560,459,151,117
+bn:00048658n jury - giuria jury - Geschworener Geschworene Jury,156,146,0,18
+bn:00048668n justness justice - equità giustizia - Gerechtigkeit Billigkeit,268,244,10,36
+bn:00048669n justice - giustizia - Gerechtigkeit,245,174,4,27
+bn:00048985n key - chiave - Schlüssel,285,263,0,25
+bn:00049112n kilometer klick kilometre - kilometro chilometro km - Kilometer,172,149,0,13
+bn:00049141n male_monarch rex king - re - König,274,250,5,53
+bn:00049248n kitchen - cucina - Küche,297,216,1,26
+bn:00049287n kleenex - kleenex - Kleenex,0,0,0,0
+bn:00049315n patella kneecap kneepan - patella rotella rotula - Kniescheibe,30,10,0,0
+bn:00049551n science_lab research_laboratory lab laboratory - laboratorio gabinetto centro_di_ricerca - Laborgebäude Laboratorium Labor,274,233,0,13
+bn:00049570n working_class proletariat labor - classe_lavoratrice proletariato classe_operaia - Arbeit Proletariat Arbeiter,191,149,0,8
+bn:00049571n labour toil labor - lavoro fatica mercato_del_lavoro - Arbeitsmarkt,274,272,22,28
+bn:00049573n undertaking project labor - lavoro compito incombente - Unternehmen,485,479,201,131
+bn:00049910n human_language language linguistic_communication - idioma lingua linguaggio - Sprache Zunge Menschliche_sprache,499,413,70,110
+bn:00050095n last_half second_half - ripresa secondo_tempo - Zweite_halbzeit,139,139,0,6
+bn:00050198n laughter laugh - riso risata - Lachen,141,135,0,18
+bn:00050240n wash lavation washing - lavatura lavaggio lavata - Körperpflege Waschen,86,69,0,7
+bn:00050287n lawn_tennis tennis - tennis_sull'erba pallacorda tennis - Tennis,170,128,0,21
+bn:00050327n pound lb - libbra libra - Pfund,20,15,0,2
+bn:00050371n director chief leader - direttore guru capintesta - Führer Leiter,308,299,1,61
+bn:00050405n cicadellidae leafhopper - cicadellidae - Zwergzikaden,0,0,0,0
+bn:00050541n leg legs pin - gamba arto_inferiore gambe - Beine Bein,295,289,0,61
+bn:00050613n leisure leisure_time - tempo_libero ozio - Freizeit,53,35,0,0
+bn:00050662n length - lungo lunghezza metratura - Pferdelänge Länge,322,273,0,40
+bn:00050666n lengthening prolongation perpetuation - prolungamento estensione protrazione - Längung,0,0,0,0
+bn:00050802n letter missive - missiva epistola lettera - Brief Sendschreiben Schreiben,412,366,30,50
+bn:00051045n life - vita esistenza - Leben,549,547,85,229
+bn:00051047n life - vita esistenza - Leben,549,546,84,229
+bn:00051108n visible_light light visible_radiation - luce_visibile luce sorgente_luminosa - Lichtquelle Licht,459,408,36,97
+bn:00051109n light_source light - lume punto_luce sorgente_luminosa - Lichtquelle Licht,144,134,0,22
+bn:00051289n line - riga tratto frego - Linie,385,385,0,31
+bn:00051440n lip lips - labbra labbro - Lippe,192,142,0,35
+bn:00051508n list listing - elenco nota lista - Liste Programmausdruck,546,539,31,72
+bn:00051538n literature - letteratura - Literatur,298,214,4,48
+bn:00051645n living_substance protoplasm - protoplasma - Protoplasma,0,0,0,0
+bn:00051693n loan - prestito - Darlehen Anleihe,303,265,0,31
+bn:00051758n neighbourhood vicinity neighborhood - adiacenza vicinanza circondario - Umgebung,151,139,0,5
+bn:00051760n geographic_location locus location - luogo posizione - Geographische_lage Lage Platz,474,446,87,95
+bn:00051906n solitariness loneliness - solitudine isolamento - Einsiedlerdasein Einsamkeit,154,153,0,24
+bn:00052121n love - amore - Zuneigung Liebe Minne,422,309,47,104
+bn:00052341n lungs lung - polmoni polmone - Lunge,200,119,0,25
+bn:00052431n lymphocyte lymph_cell - linfocita linfocito - Lymphozyt,53,42,0,18
+bn:00052617n macrophage - macrofago - Makrophage Fresszelle,0,0,0,0
+bn:00052888n planet major_planet - pianeta - Wandelstern Planet,343,289,0,32
+bn:00053014n skulking malingering revendication_neurosis - patomimia - Simulant Aggravation,0,0,0,0
+bn:00053096n military_man serviceman military_personnel - uomo militare - Militärangehöriger Militär,113,97,0,8
+bn:00053175n maneuverability manoeuvrability - manovrabilità - Manövrierfähigkeit Manövrierbarkeit,36,36,0,0
+bn:00053450n sign evidence mark - indizio traccia segno - Anzeichen,261,260,0,30
+bn:00053480n merchandising marketing selling - tecniche_di_vendita merchandising vendita - Merchandising Vertriebstechnik Marketing,242,213,20,16
+bn:00053518n matrimony wedlock marriage - sposalizio matrimonio connubio nozze unione_matrimoniale - Ehestand Ehe,340,338,6,40
+bn:00053520n marriage - unione connubio matrimonio - Ehe,389,388,1,42
+bn:00053531n married_woman wife spouse - signora moglie sposa - Eheweib Frau Ehefrau,472,423,16,133
+bn:00053662n mass - massa - Masse,428,369,9,41
+bn:00053801n stuff material - materia roba materiale stoffa - Material Stoff,497,489,128,72
+bn:00053823n maths math mathematics - matematica - Mathematik Mathe,191,121,0,11
+bn:00053941n may - maggio - Wonnemond Mai,245,203,0,13
+bn:00054009n meaning substance meaning_of_a_sign - senso accezione significato - Bedeutung,453,439,50,57
+bn:00054018n measure step - riparo rimedio provvedimento - Schritt,432,431,72,30
+bn:00054019n measure mensuration measuring measurement - misuratura misura misurazione - Messung Maß,630,574,34,91
+bn:00054244n melilotus melilot sweet_clover - melilotus vetturina - Steinklee Honigklee,0,0,0,0
+bn:00054300n remembering memory - rimembranza reminiscenza memoria - Gedächtnis,197,158,9,17
+bn:00054311n threat menace - minaccia - Bedrohung,376,376,0,57
+bn:00054416n merchandise product ware - roba merce prodotto - Produkt,550,504,135,160
+bn:00054523n communication message piece_of_information - messaggio comunicato comunicazione - Nachricht,497,456,60,115
+bn:00054550n metal metallic_element - metallo - Metall Metalle,308,239,0,48
+bn:00054625n method process way - sistema metodo procedimento - Vorgehensweise Methode Verfahren Art_und_weise,767,755,66,196
+bn:00054679n mexican - messicano - Mexikanerin Mexikaner,16,16,0,2
+bn:00054701n milligram mg milligramme - milligramma milligrammo - Milligramm,0,0,0,0
+bn:00054972n military_officer officer - ufficialessa ufficiale - Offizier,172,149,0,19
+bn:00054996n milk full_cream_milk cow's_milk - latte latte_intero - Milch Kuhmilch Vollmilch,39,25,0,3
+bn:00055052n millimeter mm millimetre - mm millimetro - Millimeter,80,65,0,8
+bn:00055080n milwaukee - milwaukee - Milwaukee,48,23,0,2
+bn:00055094n minute min - minuto_primo minuto primo - Minute,444,410,6,62
+bn:00055609n monday mon - lunedì - Montag,206,176,5,18
+bn:00055644n money - moneta danaro denaro - Zahlungsmittel Moneten Zaster,108,77,0,13
+bn:00055716n monograph - monografia - Monographie Monografie,49,30,0,2
+bn:00055794n month - mese - Mond Monat,484,482,33,96
+bn:00055809n moon luna - luna - Mond Frau_luna Erdmond,251,194,0,34
+bn:00055878n thomas_more more sir_thomas_more - tommaso_moro - Thomas_morus,0,0,0,0
+bn:00055981n moss - bryophyta muschi muschio - Laubmoose Moos,113,93,0,7
+bn:00055991n most_valuable_player mvp - most_valuable_player mvp - Most_valuable_player,0,0,0,0
+bn:00056029n move motion motility - mossa movimento - Bewegung,477,470,83,61
+bn:00056030n movement motion - moto - Bewegung,306,276,8,27
+bn:00056037n need motivation motive - motivazione ragione bisogno - Motivation Intrinsische_motivation,334,285,10,13
+bn:00056059n lorry truck medium_goods_vehicle - autocarro carro_attrezzi camion - Laster Lastwagen Lkw Lastauto,269,214,0,14
+bn:00056135n oral_fissure mouth rima_oris - cavo_orale bocca cavità_orale - Mundhöhle Mund Maul,257,192,0,30
+bn:00056171n wind_wave wave moving_ridge - onda onda_del_mare onda_marina - Meereswelle Welle Wasserwelle,310,273,2,29
+bn:00056284n multinomial polynomial - polinomio - Polynom,1,1,0,1
+bn:00056383n muscle_system musculature muscular_system - sistema_muscolare muscolatura - Muskelsystem Muskulatur,46,18,0,0
+bn:00056404n quadriceps_femoris_muscle quadriceps musculus_quadriceps_femoris - quadricipite muscolo_quadricipite_femorale - Musculus_quadriceps_femoris,0,0,0,0
+bn:00056443n music music_lover - amante_della_musica musica appassionato_di_musica - Musik Melomane Musikliebhaber,428,341,115,113
+bn:00056593n primary_myelofibrosis myelofibrosis - mielofibrosi - Osteomyelofibrose,0,0,0,0
+bn:00056607n myocardium - miocardio - Herzmuskel Myokard,23,22,0,0
+bn:00056609n myofibrilla myofibril sarcostyle - miofibrilla - Muskelfibrille,0,0,0,0
+bn:00056758n name proper_name proper_noun - appellativo nome denominazione - Proprium Eigenname Name,516,449,113,116
+bn:00056857n story narrative narration - racconto narrazione testo_narrativo - Erzählung Geschichte Erzählperspektive,460,373,107,59
+bn:00056883n nasal_fossa nasal_cavity - fosse_nasali fossa_nasale cavità_nasali - Nasenhöhle,10,4,0,0
+bn:00057219n neighbor neighbour - vicina vicino - Nachbarin Nachbar,215,214,2,21
+bn:00057267n tumour neoplasm tumor - tumore neoplasia neoplasma - Neoplasie Blastom Neoplasma Neubildung Tumor,225,184,1,27
+bn:00057367n fillet net - fillet rete - Netz Filet,270,269,8,14
+bn:00057379n network web - rete - Netzwerk,448,447,93,76
+bn:00057563n newspaper paper daily gazette daily_newspaper - quotidiano quotidiano_della_sera giornale_della_sera rivista giornale carta_da_giornale - Abendzeitung Papier Tageszeitung Zeitungspapier Dokument Zeitung,497,429,4,50
+bn:00057840n noctambulist sleepwalker somnambulist - sonnambulo sonnambolo - Schlafwandler,0,0,0,0
+bn:00058117n olfactory_organ nose - naso - Nase,194,140,0,21
+bn:00058192n november nov - novembre - November,253,210,0,5
+bn:00058201n novel - romanzo - Roman,258,200,1,23
+bn:00058285n number - numero - Zahl,582,547,106,177
+bn:00058407n rowlock oarlock pin - scalmiera scalmo forcella - Dolle,0,0,0,0
+bn:00058442n object physical_object - oggetto cosa - Objekt,403,384,33,55
+bn:00058495n observation - osservazione - Beobachtung,331,293,5,28
+bn:00058697n officeholder officer - funzionario ufficiale - Funktionärin Funktionär Amtsinhaber,180,179,6,9
+bn:00058698n cop officer policeman - agente agente_di_polizia poliziotto - Bulle Polizeibeamter Polizeibeamtin Polizist,189,172,9,6
+bn:00058732n oil - olio - Öl Öle,363,303,0,96
+bn:00058810n va virginia old_dominion_state - virginia - Virginia,156,110,6,53
+bn:00058992n one-thousandth thousandth - millesimo - Tausendstel,3,3,0,0
+bn:00059130n procedure operation - procedimento procedura operazione - Prozedur,202,201,0,29
+bn:00059141n operator - operatore - Operator,74,74,0,2
+bn:00059150n snake ophidian serpent - serpe serpente serpentes colubro - Wurm Schlange Schlangen,232,150,0,21
+bn:00059168n view sentiment opinion - convincimento opinione giudizio - Meinung Überzeugung Glaube,543,501,66,92
+bn:00059303n order - comando ordine disposizione - Order Befehl Geheiß,252,250,27,42
+bn:00059480n organizational organization organisation - formazione costituzione organizzazione - Organisatorisch Organisation,502,432,107,146
+bn:00059527n orinoco_river orinoco - orinoco - Orinoco,0,0,0,0
+bn:00059677n osteoporosis - osteoporosi - Osteoporose Knochenschwund,8,6,0,0
+bn:00059829n oven - forno - Ofen Backofen,197,150,0,23
+bn:00059986n oxidation oxidization oxidisation - ossidazione - Oxidation,78,70,0,12
+bn:00060066n pace yard - iarda yard passo - Schritt Yard,349,338,21,20
+bn:00060158n page - facciata pag. pagina - Seite,401,388,54,82
+bn:00060201n artist painting painter - verniciatura pittura immagine - Gemälde Malerei Maler,395,308,7,46
+bn:00060420n viola_×_wittrockiana pansy pansy_violet - pansè viola_wittrockiana viola_×_wittrockiana - Stiefmütterchen Garten-stiefmütterchen,0,0,0,0
+bn:00060423n trouser trousers pant - brache pantaloni - Hosen Hose,109,54,0,0
+bn:00060464n paper - carta - Totes_holz Papier Totholz,385,322,6,33
+bn:00060467n paperback paper-back_book soft-cover - paperback brossura libro_tascabile - Taschenbuch,7,4,0,0
+bn:00060643n parenthood parent parents - procreatore genitore genitori - Eltern Elternschaft Elternteil,383,340,93,89
+bn:00060799n participant player - giocatore che_partecipa partecipante - Teilnehmerin Spieler Teilnehmer,648,626,54,158
+bn:00060802n subatomic_particle particle - particella - Teilchen Partikel,302,263,0,46
+bn:00060834n party political_party - forza_politica partito parte - Politische_partei Partei,524,452,126,164
+bn:00060907n passion passionateness - passione pathos trasporto - Leidenschaft Passion,273,231,17,39
+bn:00060927n past_times past yesteryear - passato - Vergangenheit,406,378,27,11
+bn:00060969n spell piece while - istante momento attimo - Weile Kurze_periode Zeitdauer,263,263,18,17
+bn:00061009n pathogenesis - patogenesi nosogenesi - Pathogenese,0,0,0,0
+bn:00061017n patient - ammalato cliente paziente - Patient,455,436,57,97
+bn:00061119n payment - compenso versamento pagamento corresponsione - Zahlung,384,348,16,65
+bn:00061135n pct per_centum percentage - percento per_cento percentuale - Prozentsatz Prozent Prozentualer_anteil,276,258,0,17
+bn:00061218n woodpecker pecker peckerwood - picidae picchio - Spechte,0,0,0,0
+bn:00061450n people - popolazione persona gente - Leute Volk,494,448,69,183
+bn:00061485n proteolytic_enzyme peptidase protease - proteasi peptidasi - Peptidase Peptidasen Protease,15,8,0,1
+bn:00061516n perchlorate_ion perchlorate - perclorato - Perchlorat Perchlorate,0,0,0,0
+bn:00061560n live_show public_presentation performance - rappresentazione performance esecuzione_artistica - Auftritt Aufführung Performance,435,421,19,61
+bn:00061571n perfusion - perfusione - Durchblutung,16,15,0,1
+bn:00061730n pin_number pin personal_identification_number - codice_pin - Persönliche_identifikationsnummer,0,0,0,0
+bn:00061761n pervaporation - pervaporazione - Pervaporation,0,0,0,0
+bn:00061897n throat pharynx - faringe gozzo gola - Kehle,112,62,0,10
+bn:00061931n phenomenon - fenomeno - Phänomen,350,318,9,34
+bn:00062019n vocalization voice phonation - voce fonazione - Artikulation Stimme,388,366,180,78
+bn:00062020n phone telephone_set telephone - telefono apparecchio_telefonico - Fernsprecher Telefon,313,248,4,17
+bn:00062167n process physical_process - processo procedimento - Prozess,489,483,49,112
+bn:00062214n plaza place piazza - p.zza piazza - Platz,279,271,61,55
+bn:00062309n piece_of_work opera work - lavoro opera operato - Werk,502,497,198,104
+bn:00062699n place spot topographic_point - area posto zona - Ort Stelle Platz,666,663,175,201
+bn:00062757n pleat plait - plissettatura pieghettatura piega - Falte Plissee,32,28,0,1
+bn:00062759n programme plan program - progetto programma piano - Plan,511,483,122,152
+bn:00062766n sheet plane - piano_geometrico piano - Schicht Ebene,369,355,23,43
+bn:00062767n plane - livello piano spostamento_della_realtà - Ebene,224,220,2,12
+bn:00062794n planning - pianificazione progettazione programmazione - Planung,304,302,5,62
+bn:00062972n pleasance pleasure - gradimento piacimento piacere - Genuss Pläsier Vergnügen,227,180,0,13
+bn:00063155n pocket trouser_pocket - tasca tasca_dei_pantaloni tasca_dei_calzoni - Hosentasche Sack Tasche,187,153,0,15
+bn:00063214n point - punto luogo - Punkt,505,501,31,106
+bn:00063237n point_of_view standpoint viewpoint - prospettiva punto_di_vista posizione - Blickwinkel Blickpunkt Standpunkt,271,271,1,7
+bn:00063256n toxicant poisonous_substance poison - veleno tosco tossico - Gift Giftstoff,192,142,0,16
+bn:00063329n policy - politica_gestionale strategia politica - Politik,438,438,158,180
+bn:00063330n policy - atlantismo politica policy - Policy,0,0,0,0
+bn:00063351n politics political_relation - politica - Politik,351,282,59,58
+bn:00063381n polliwog tadpole pollywog - girino - Kaulquappe,40,35,0,0
+bn:00063439n polymyositis - polimiosite - Polymyositis,0,0,0,0
+bn:00063508n pond artificial_pond pool - laghetto tonfano pantano stagno - Teich Tümpel Weiher,136,76,0,7
+bn:00063584n populace public world - pubblico mondo - Öffentlichkeit Publikum,582,578,163,130
+bn:00063608n gate_building porch - porticale porticato portico - Porche Vorbau Vordach,51,29,0,0
+bn:00063638n porage porridge parritch - zuppa_d'avena porridge pappa_d'avena - Haferschleim Porridge Brei,3,2,0,0
+bn:00063640n port - porto - Hafen,379,322,0,36
+bn:00063689n portugal portuguese_republic - portogallo - Portugal,195,96,0,14
+bn:00063703n position status - stato posizione status - Status,486,481,17,88
+bn:00063707n condition situation position - situazione posizione quadro - Rahmen,551,551,164,137
+bn:00064181n prerequisite requirement - requisito requirement prerequisito - Voraussetzung Vorbedingung Anforderung,403,402,134,65
+bn:00064201n presence - presenza - Anwesenheit,220,218,0,5
+bn:00064526n problem - problema - Problem,620,619,115,125
+bn:00064527n trouble problem - problema casino nodo - Schwierigkeit Problem,584,584,206,120
+bn:00064536n process procedure - procedimento procedura iter - Verfahren Verlauf Verfahrensweise,520,519,121,160
+bn:00064584n production product - prodotto produzione pegamoide - Produkt,578,575,194,235
+bn:00064590n production - produzione - Produktion Herstellung,469,469,66,131
+bn:00064747n propellor propeller - elica propulsore - Propeller,79,58,0,4
+bn:00064752n phenotypic_character property - proprietà - Eigenschaft,347,329,15,42
+bn:00064795n propylthiouracil - propiltiouracile - Propylthiouracil,0,0,0,0
+bn:00064855n protein poly_peptide - proteine protide proteina - Eiweiß Protein,332,232,0,31
+bn:00064914n province state - provincia stato_membro stato - Provinz Staat,619,567,176,136
+bn:00064921n provision proviso - condizione norma clausola - Maßgabe Vorbehaltsklausel Kautel Bedingung,402,402,152,70
+bn:00065062n pterygium - pterigio - Pterygium,0,0,0,0
+bn:00065489n space quad - spazio - Leerschritt Geviert Zwischenraum,54,54,0,4
+bn:00065538n quality - qualità - Merkmal Qualität,486,450,38,147
+bn:00065874n ionizing_radiation ionising_radiation radiation - irradiamento radiazione irraggiamento - Ionisierende_strahlung Strahlung,256,246,0,40
+bn:00066026n railway_station railroad_station train_station - stazione_dei_treni stazione_ferroviaria stazione - Haltestelle Eisenbahnhof Eisenbahnstation,60,43,0,0
+bn:00066028n railroad_train passenger_train train - treno_passeggeri treno convoglio - Zug Personenzug,325,277,1,45
+bn:00066032n rain rainwater rainfall rain_water - pioggia acqua_piovana acqua - Regenwasser Niederschlagswasser Regen,382,295,0,57
+bn:00066236n ratio rate - velocità ritmo tasso - Rate,186,177,9,23
+bn:00066247n ratio - rapporto ragione quoziente - Verhältnis,274,265,10,34
+bn:00066365n reader - lettore - Vorleserin Vorleser,27,26,0,2
+bn:00066372n reading - interpretazione interpretare lettura - Lesen,134,114,0,6
+bn:00066418n reality world - reale realtà mondo - Realität Wirklichkeit,534,533,19,85
+bn:00066443n reason - motivo ragione causa - Grund,439,430,9,80
+bn:00066793n referendum plebiscite - referendum - Volksabstimmung Referendum,235,207,0,13
+bn:00066865n regard respect - rispetto riguardo - Hinsicht Bezug Aspekt,476,476,2,65
+bn:00066880n regiment - reggimento - Regiment,93,68,0,5
+bn:00066995n relation - relazione nesso rapporto - Beziehung,448,444,21,76
+bn:00067181n report written_report study - relazione report_informativo rapporto ricerca - Bericht Reportage Meldung,519,488,44,130
+bn:00067280n research - ricerca_scientifica ricerca - Forschung,417,372,35,84
+bn:00067490n retrospective - retrospettiva - Retrospektive,19,17,0,1
+bn:00067519n tax revenue_enhancement taxation - tassa imposta tassazione - Besteuerung Steuer,438,369,0,38
+bn:00067785n budé youth_rifle rifle - fucile schioppo youth_rifle - Gewehr Karabiner,159,137,0,14
+bn:00067807n right rights - diritto diritti ragione - Recht Rechte,496,443,21,99
+bn:00067948n river - fiume - Fluß Fluss,254,168,0,26
+bn:00067975n road route - via strada percorso - Straßen Straße Pfad,563,489,1,101
+bn:00068045n rock stone - pietra osso sasso - Stein,410,398,2,101
+bn:00068220n roof - copertura tetto - Dach,227,187,0,18
+bn:00068233n room - stanza vano camera - Gemach Zimmer Stube Raum,586,511,52,99
+bn:00068321n rotary_international rotary_club - rotary_international - Rotary_international,0,0,0,0
+bn:00068672n second sec s - s secondo - Zweiter Sekunde,363,324,0,15
+bn:00068696n sat sabbatum saturday - sabato - Samstag Satertag Sabbat,226,196,1,29
+bn:00068943n saline_solution saline - soluzione_fisiologica - Isotonische_kochsalzlösung Kochsalzlösung Salzlösung,6,4,0,1
+bn:00069078n sample - mostra assaggio campione - Muster Probe,451,448,0,75
+bn:00069286n sari saree - sari - Sari,35,16,0,0
+bn:00069579n scheme strategy - progetto piano_d'azione strategia - Strategie Projekt Plan,632,599,195,199
+bn:00069580n system scheme - sistema - Verbund System Ordnung,578,574,236,192
+bn:00069619n academy university school - istituto università scuola - Universität Schule Uni,607,527,128,182
+bn:00069620n school schoolhouse - scuola - Schule,410,408,90,138
+bn:00069643n schoolgirl - alunna scolara - Schulmädchen Schülerin,11,11,1,1
+bn:00069757n scoreboard - tabellone_segnapunti - Anzeigetafel,0,0,0,0
+bn:00069946n sea - mare acque - Meer,361,278,0,43
+bn:00070056n sports_season sports_season_of_a_sports_club season - periodo stagione_di_un_club_sportivo stagione - Regular_season Spielsaison_einer_mannschaft Spielsaison,25,24,0,3
+bn:00070190n subdivision section - sezione articolo - Abschnitt,471,467,0,62
+bn:00070218n stock_exchange securities_market stock_market - borsa_valori borsa mercato_mobiliare - Aktienmarkt Wertpapierbörse Börsenmarkt,69,59,0,4
+bn:00070219n security safety - sicurezza - Sicherheit,435,435,140,138
+bn:00070494n sensation sentiency sense - sensazione senso sensibilità - Sensibilität Sinn Empfindung,527,466,125,72
+bn:00070497n sense - coscienza senso - Gefühl,309,308,20,46
+bn:00070498n signified sense - senso accezione - Sinn,355,350,154,54
+bn:00070499n sense - senso tocco - Sinn Gefühl,404,404,91,72
+bn:00070528n sentence - periodo frase - Satz,362,327,4,28
+bn:00070537n september sep sept - settembre - September Scheiding,280,238,0,7
+bn:00070651n service - servizio - Dienstleistung,397,332,45,106
+bn:00070724n human_settlement village settlement - cittadina paese villaggio - Siedlung Kleinstadt,310,258,0,27
+bn:00070753n sewerage sewage - liquame - Abwasser Jauche,88,73,0,3
+bn:00070914n shareowner shareholder stockholder - gruppo_di_controllo azionista caratista - Aktionär,284,265,0,23
+bn:00070964n shed garden_shed - capannone - Schuppen,83,53,0,5
+bn:00071019n shelter platform_roof - riparo pensilina rifugio - Schutzbau Unterschlupf Unterstand,101,84,0,3
+bn:00071085n shinbone shin_bone tibia - tibia stinco - Schienbein,43,11,0,2
+bn:00071103n ship - dirigibile bastimento astronave nave - Schiff,147,111,0,10
+bn:00071172n shoe - calzatura scarpa - Schuh Lackschuh,298,245,0,39
+bn:00071206n shooting shot - colpo sparo fuoco - Schuss,312,311,0,32
+bn:00071215n shop store retail_outlet - bottega negozio spaccio esercizio - Geschäft Laden Einzelhandelsgeschäft,598,595,148,91
+bn:00071235n shore - riva costa sponda - Ufer,166,141,0,3
+bn:00071525n sign signaling signal - segnalazione segnale segno cenno - Zeichen Signal,580,544,111,70
+bn:00071707n sin sinfulness wickedness - cattiveria peccato colpa - Sünde,249,190,0,27
+bn:00071838n sis sister - sorella - Schwester Schwesterchen,384,382,15,115
+bn:00071869n situation state_of_affairs - condizione situazione - Lage Zustand Situation,565,555,167,209
+bn:00071965n skilled_worker specialist skilled_workman - slang lavoratore_specializzato specialista - Fachkraft,179,173,0,16
+bn:00072004n skirt - sottana gonna gonnella - Rock,82,50,0,17
+bn:00072006n skit sketch - quadro numero sketch - Sketch,122,122,0,5
+bn:00072016n sky - cielo - Himmel,292,243,1,36
+bn:00072080n slave - servo schiavo - Sklave,189,179,0,16
+bn:00072274n small_intestine - tenue intestino-tenue intestino_tenue - Dünndarm,18,6,0,0
+bn:00072566n society - società società_civile - Gesellschaft,424,353,64,101
+bn:00072698n soldier - armato militare milite - Kämpfer Soldat,261,226,14,33
+bn:00072794n song vocal - canzonetta canto canzone - Lied,378,332,3,65
+bn:00072886n soul soulfulness - anima - Seele,351,344,21,68
+bn:00072960n southern_united_states south - stati_uniti_d'america_meridionali stati_uniti_meridionali sud - Südstaaten,1,1,0,0
+bn:00073206n specializer specialist specialiser - specialista - Experte Spezialist Fachmann,251,250,0,26
+bn:00073210n animal_species species - specie_animale specie - Spezies Art Tierart,325,288,15,34
+bn:00073236n spectrophotometer spectrophotometry - spettrofotometro spettrofotometria - Spektrophotometrie Spektralphotometer,4,4,0,1
+bn:00073237n spectrum - spettro_atomico spettro - Spektrum,219,209,0,9
+bn:00073258n speed velocity - celerità velocità - Geschwindigkeitsvektor Schnelligkeit Geschwindigkeit,452,407,2,90
+bn:00073480n splenomegaly - splenomegalia - Splenomegalie,0,0,0,0
+bn:00073636n springtime spring - primavera vere - Frühling Frühjahr Lenz,247,195,0,9
+bn:00073699n team squad - compagine manipolo squadra - Mannschaft Brigade Team,501,472,165,121
+bn:00073848n stair step - scala scalino gradino - Sprosse Treppe Stufe,478,447,60,16
+bn:00073853n steps stairs - scala - Treppe,11,6,0,0
+bn:00073884n androecium stamen - stame - Stamen Staubblatt,0,0,0,0
+bn:00073964n star - sole astro stella - Sonne Stern Gestirn,431,380,54,62
+bn:00073965n star - stella - Stern,365,364,1,44
+bn:00074332n stock - azione capitale_azionario - Aktie,274,254,0,58
+bn:00074450n storeroom utility_room storage_room - sgabuzzino stanzino ripostiglio - Waschraum Waschküche Lager,67,40,0,3
+bn:00074594n streamliner - streamlining - Stromlinienlokomotive Stromlinienfahrzeug,0,0,0,0
+bn:00074595n street - via strada strada_urbana - Strasse Straße,318,313,1,91
+bn:00074606n street_light street_lamp streetlight - lampione - Straßenlaterne Straßenbeleuchtung,65,44,0,0
+bn:00074615n strength - energia vigore fibra - Stärke Festigkeit Kraft,410,408,93,47
+bn:00074790n survey research study - indagine studio - Studie Untersuchung,594,592,211,194
+bn:00074791n work meditation study - riflessione meditazione studio - Betrachtung,305,304,56,37
+bn:00074900n theme topic subject - tematica argomento tasto oggetto - Thema Gegenstand Topik,634,616,72,114
+bn:00074985n substance substantie - sostanza - Substanz,419,415,3,114
+bn:00075023n success - successo esito - Erfolg,455,451,72,69
+bn:00075151n summer summertime summer_season - stagione_estiva estate - Sommersaison Sommerzeit Sommer,366,309,3,29
+bn:00075170n sun - sole - Sonne,325,256,0,54
+bn:00075322n supply - provvista approvvigionamento rifornimento - Versorgung,272,272,0,29
+bn:00075504n swan cygnini cygnus - cigno cygnus - Schwan Cygnus Schwäne,135,94,0,15
+bn:00075652n symbol - segno simbolo - Symbol Zeichen,424,356,0,37
+bn:00075812n table tabular_array - tavola tabella quadro - Tafel Spiegel Tabelle,557,537,6,86
+bn:00075813n table - tavola tavolo - Tisch,317,273,0,38
+bn:00075814n table - tavola tavolo - Tisch,317,317,0,52
+bn:00075904n tail - coda - Schwanz,149,115,0,24
+bn:00076033n tangent - tangente - Tangente,17,14,0,0
+bn:00076312n lacrymal_fluid tear teardrop - lagrima luccicone lacrima - Träne Tränentropfen Zähre,209,207,0,27
+bn:00076373n telecasting tv television - tv televisione video tivù - Television Video Fernsehen,412,331,44,81
+bn:00076457n temperature air_temperature - temperatura_dell'aria temperatura - Lufttemperatur Temperatur,453,369,0,76
+bn:00076496n tendency trend - orientamento trend indirizzo - Trend,417,417,10,34
+bn:00076732n text textual_matter - testo - Text,432,388,8,78
+bn:00076734n land country nation - nazione - Nation,344,280,18,44
+bn:00076789n truth trueness verity - veritade veritate verità - Wahrheit,360,359,33,67
+bn:00076834n theory teoría - teoria - Theorie Teoría,337,316,15,51
+bn:00076925n thing - cosa - Gegenstand Seiende Entität,380,379,118,51
+bn:00076938n thiocyanate thiocyanate_salt - tiocianato - Thiocyanate Thiocyanat,0,0,0,0
+bn:00077084n thrombosis - trombosi - Thrombose,72,50,0,1
+bn:00077085n thrombus blood_clot - trombo trombosi - Blutgerinnsel Thrombus Blutpfropf,40,28,0,1
+bn:00077142n thyroid thyroid_gland - tiroide - Schilddrüse,22,14,0,0
+bn:00077143n thyrotrophin thyroid-stimulating_hormone thyrotropic_hormone thyrotropin - ormone_tireostimolante - Thyreotropin,0,0,0,0
+bn:00077270n time - data tempo - Zeit,533,451,72,173
+bn:00077386n group_of_cells tissue - tessuto - Gruppe_von_zellen Gewebe Zelluläres_gewebe,303,253,0,37
+bn:00077462n today - oggi - Heute,32,32,0,1
+bn:00077593n human_tooth tooth teeth - denti dente_umano dente - Zahn Menschlicher_zahn Zähne,222,157,0,36
+bn:00077604n toothpaste - dentifricio pasta_dentifricia - Zahncreme Zahnpaste Zahnpasta,91,67,0,5
+bn:00077773n town large_village - città grosso_paese paese - Bourg Kleinstadt,151,125,0,12
+bn:00077794n toxin - tossina - Gift Toxin,185,148,0,21
+bn:00078131n tree - albero albore arbore - Baum,444,348,5,58
+bn:00078365n victory triumph - vittoria successo trionfo - Triumph Sieg,444,418,17,57
+bn:00078460n truth true_statement - verità - Wahrheit,360,359,11,59
+bn:00078509n tsunami - tsunami onda_anomala maremoto - Tsunami Flutwelle,142,109,0,5
+bn:00078738n year yr twelvemonth - anno - Ja! Jahr,482,468,32,166
+bn:00078986n underwear underclothing underclothes - biancheria intimo biancheria_intima - Unterwäsche,148,104,0,7
+bn:00079014n undersecretary undersecretariat - sottosegretario sottosegretario_di_stato sottosegretaria - Untersekretariat Ministerialdirektor,4,3,0,0
+bn:00079476n vale valley dale - vallata conca valle - Senke Tal,215,165,7,9
+bn:00079508n value - valore - Wert L-wert,439,434,23,184
+bn:00079509n value - valore qualità conto - Wert,498,496,38,210
+bn:00080085n virus - virus - Virus Viren,408,338,0,102
+bn:00080229n cubage volume - cubatura volume contenuto - Volumen,340,312,3,56
+bn:00080322n vůz wagon waggon - vůz carro carrozza - Kutsche Vůz Wagen,213,179,0,20
+bn:00080386n wall - muro parete - Wand Mauer,447,390,0,64
+bn:00080439n war armed_conflict warfare - guerra conflitto - Bewaffneter_konflikt Kriegsführung Krieg,524,404,37,77
+bn:00080831n weight - forza_peso peso - Gewichtskraft Gewicht,389,361,0,82
+bn:00081031n whiskey whisky - whisky - Whisky,138,107,0,22
+bn:00081285n sill window_sill window ledge-sill window_ledge - davanzale davanzale_della_finestra bordo_della_finestra finestra - Fenster Fensterbank,323,268,34,25
+bn:00081292n window - finestra - Fenster,319,306,1,47
+bn:00081370n winter wintertime - inverno invernata verno - Winter Winterzeit,269,211,2,25
+bn:00081492n sap-wood wood sapwood - legno legname alburno - Holz Splintholz,349,249,1,45
+bn:00081546n word - suono parola vocabolo - Wort,476,412,71,100
+bn:00081628n world_series - world_series - World_series,0,0,0,0
+bn:00081730n wrought_iron - ferro_battuto - Schmiedeeisen,12,7,0,0
+bn:00081893n yelping yelp yip - uggiolio yelp guaito - Yelp Yelp_inc.,3,2,0,0
+bn:00081968n yucca - iucca yucca - Yucca Palmlilien,8,5,0,0
+total summed up,290730,264813,28291,47323
